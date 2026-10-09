@@ -51,9 +51,16 @@
         font-size: 14px;
         letter-spacing: 0.3em;
         opacity: 0.7;
+        /* Opacity runs on the compositor: it keeps pulsing while a long task blocks the main thread. */
+        animation: loadpulse 1.4s ease-in-out infinite;
+      }
+      @keyframes loadpulse {
+        50% {
+          opacity: 0.25;
+        }
       }
     </style>
-    <script type="module" crossorigin src="./assets/index-DBuJ5CpD.js"></script>
+    <script type="module" crossorigin src="./assets/index-ThMaM7MA.js"></script>
   </head>
   <body>
     <div id="app"></div>
