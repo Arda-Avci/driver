@@ -1,4 +1,85 @@
 {
  "note": "Feature card pictures (owner exception to the procedural-only rule, 2026-10-18); 1024x576 RGBA, full bleed; files are used as delivered, byte for byte. Until a card's file is listed here it shows its stand-in.",
- "files": []
+ "files": [
+  {
+   "file": "air.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 479643,
+   "sha256": "efe4162ad515821f5b23cadd19d3c5293f06b8d25ec1dcee396e396e8743cb0b",
+   "use": "feature card picture"
+  },
+  {
+   "file": "bike1000.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 477004,
+   "sha256": "076b637815cbe624208fdf6a95a9c69cbaf2bd755926d96bba3f1c5b1c13fb30",
+   "use": "feature card picture"
+  },
+  {
+   "file": "bike1000sc.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 442639,
+   "sha256": "c89056697d15d4803839730fe25a1d86b1611c3ef3012b98ccb6f4b2ae5d4bfa",
+   "use": "feature card picture"
+  },
+  {
+   "file": "bike1400.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 456307,
+   "sha256": "ec05f95569d0c8011f31a0c6d6f1d07c30dee707c61e0d49049d338171c5ed48",
+   "use": "feature card picture"
+  },
+  {
+   "file": "bikeRival.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 493156,
+   "sha256": "d51cefd28b4ad9e4ac687653c3bd38467760e914aca5863ab2edf307ad62c8ca",
+   "use": "feature card picture"
+  },
+  {
+   "file": "muscle.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 505926,
+   "sha256": "ca87d0fa306531bd2296599e757a46a1595929a31b159d5404827621c9d358b8",
+   "use": "feature card picture"
+  },
+  {
+   "file": "ride.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 503370,
+   "sha256": "558b938e793dd1a2652a6be2e33a5f854319a7249088538e9ef88b0d6271b6a3",
+   "use": "feature card picture"
+  },
+  {
+   "file": "snow.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 471282,
+   "sha256": "b2003621bc713358e92c87031d377c6299ae233551dcdfbc3dec65bfde56a667",
+   "use": "feature card picture"
+  },
+  {
+   "file": "stepUp.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 494789,
+   "sha256": "813be880d25f77bdd64e3c2d972afec6f2a5f38d2eb7723afae7571e625639b8",
+   "use": "feature card picture"
+  },
+  {
+   "file": "traffic.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 472170,
+   "sha256": "a55c9747db8a9611bc4b8d2f5a47f280da76ea79839371f1e3712f613477f3cc",
+   "use": "feature card picture"
+  }
+ ]
 }
