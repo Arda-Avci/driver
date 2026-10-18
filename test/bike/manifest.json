@@ -1,0 +1,181 @@
+{
+ "note": "Motorcycle images (owner exception to the procedural-only rule); files are used as delivered, byte for byte.",
+ "files": [
+  {
+   "file": "helmet-1.png",
+   "width": 512,
+   "height": 256,
+   "bytes": 98119,
+   "sha256": "db2421a5a2589e9baa5dbcde974546f762d4b470c7b1ea44314de2839a13d985",
+   "use": "helmet shell wrap"
+  },
+  {
+   "file": "helmet-2.png",
+   "width": 512,
+   "height": 256,
+   "bytes": 139653,
+   "sha256": "8ded8faaacbfe356b95ea437c3c58f18001fab7b5926ac6d174401c8f53c4573",
+   "use": "helmet shell wrap"
+  },
+  {
+   "file": "helmet-3.png",
+   "width": 512,
+   "height": 256,
+   "bytes": 113368,
+   "sha256": "d71c31d526513320636c2d4ee9966d0ebdbf415ea9b0e2facd746b69d298ac85",
+   "use": "helmet shell wrap"
+  },
+  {
+   "file": "hero-1000.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 454487,
+   "sha256": "b61b44a01002e2e0379997baafea716d7d7565b510aad997c961b437fc9af376",
+   "use": "vehicle list card (not loaded in a race)"
+  },
+  {
+   "file": "hero-125.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 412139,
+   "sha256": "8f88adc5fd98c6b7577941cf27dcfb995e7d2c5c4482dd8aa23992d6c3c078cf",
+   "use": "vehicle list card (not loaded in a race)"
+  },
+  {
+   "file": "hero-250.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 463540,
+   "sha256": "0b7600a6b383b8b1bc192fb4d4de5c16574972e3e256b4aed8d901c3ae9f1edc",
+   "use": "vehicle list card (not loaded in a race)"
+  },
+  {
+   "file": "hero-300.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 453389,
+   "sha256": "2f2c0a69c3647ccbcd365333c3eb36bb132c6747dc20348565b2163f09c32575",
+   "use": "vehicle list card (not loaded in a race)"
+  },
+  {
+   "file": "hero-600.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 488384,
+   "sha256": "e316a57998df1b6bba8f0ae22cfd4cf9d0030d6322a17c29f7a42773efcf9fe1",
+   "use": "vehicle list card (not loaded in a race)"
+  },
+  {
+   "file": "livery-1000.png",
+   "width": 1024,
+   "height": 512,
+   "bytes": 246517,
+   "sha256": "dd32cddd4a9c8703b647866173c6ae23ba7ca0c1378361ca479a3dd6f53f7a8d",
+   "use": "side decal on the bodywork, tinted by the paint"
+  },
+  {
+   "file": "livery-125.png",
+   "width": 1024,
+   "height": 512,
+   "bytes": 222182,
+   "sha256": "14f19df5c803c694faf9498c425eae13f71e433f5e6a4d6401bdcd1a81684474",
+   "use": "side decal on the bodywork, tinted by the paint"
+  },
+  {
+   "file": "livery-250.png",
+   "width": 1024,
+   "height": 512,
+   "bytes": 279810,
+   "sha256": "da49d2e8131adaab2a689dbfd83eb0c8b9f28fb9314fd5bccb909e53ac374bf2",
+   "use": "side decal on the bodywork, tinted by the paint"
+  },
+  {
+   "file": "livery-300.png",
+   "width": 1024,
+   "height": 512,
+   "bytes": 278203,
+   "sha256": "8514ee3aa212b0cb647d6032bcdfa736dbf1cd738441741156e34e03fa85c448",
+   "use": "side decal on the bodywork, tinted by the paint"
+  },
+  {
+   "file": "livery-600.png",
+   "width": 1024,
+   "height": 512,
+   "bytes": 272923,
+   "sha256": "93011776cb92003df63b09047efd566582b157222d067fc770619f8015366bc6",
+   "use": "side decal on the bodywork, tinted by the paint"
+  },
+  {
+   "file": "rim-1000.png",
+   "width": 512,
+   "height": 512,
+   "bytes": 301712,
+   "sha256": "a9d62bcf2e96c6f9aece862399fa9ccb3ce23f008a457e65fbfdb4e6448b1cc5",
+   "use": "wheel face disc"
+  },
+  {
+   "file": "rim-125.png",
+   "width": 512,
+   "height": 512,
+   "bytes": 308707,
+   "sha256": "acb445d6803e33d9eed655c84add8977fbdd3654ec9bbcebf07714587145e431",
+   "use": "wheel face disc"
+  },
+  {
+   "file": "rim-250.png",
+   "width": 512,
+   "height": 512,
+   "bytes": 247923,
+   "sha256": "b243a704fa41d6945888debbfef6638417ad1dea5dec04adae938c614a198fbf",
+   "use": "wheel face disc"
+  },
+  {
+   "file": "rim-300.png",
+   "width": 512,
+   "height": 512,
+   "bytes": 263167,
+   "sha256": "ab5067935408809a26094c589050a5695587669244d4be28ecaf5458306f607a",
+   "use": "wheel face disc"
+  },
+  {
+   "file": "rim-600.png",
+   "width": 512,
+   "height": 512,
+   "bytes": 223958,
+   "sha256": "a40a8be6b8a99b7328c2d871f6580c2b00f46d1c020168672e7f16fa9f6ebc7c",
+   "use": "wheel face disc"
+  },
+  {
+   "file": "spark.png",
+   "width": 128,
+   "height": 128,
+   "bytes": 19309,
+   "sha256": "bea51e3ac8ed7b7c67ac44025923a579bbc1df6b91429a4bac24e43150ebda81",
+   "use": "knee spark flares"
+  },
+  {
+   "file": "suit-1.png",
+   "width": 1024,
+   "height": 512,
+   "bytes": 424130,
+   "sha256": "b8b269a59ad877410cdc638a03beb554f3c97d1a4ee73f6e0099f78d328aa1b3",
+   "use": "race suit wrap on the torso"
+  },
+  {
+   "file": "suit-2.png",
+   "width": 1024,
+   "height": 512,
+   "bytes": 460002,
+   "sha256": "12635a37ae874b79c58ae5e2b3a19b17893ca5398ff91bc481c57da42e8ee9e5",
+   "use": "race suit wrap on the torso"
+  },
+  {
+   "file": "visor.png",
+   "width": 256,
+   "height": 128,
+   "bytes": 38862,
+   "sha256": "517b2c9982b8e4630fb30abdb918522c2024655987c3d8b69fa694d3dd394f39",
+   "use": "helmet visor"
+  }
+ ]
+}

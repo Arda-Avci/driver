@@ -1,0 +1,83 @@
+{
+  "loading": [
+    {
+      "src": "m17.mp3",
+      "title": "Engine Start",
+      "loop": "native"
+    }
+  ],
+  "menu": [
+    {
+      "src": "m01.mp3",
+      "title": "Neon Garage Blues"
+    }
+  ],
+  "race": [
+    {
+      "src": "m02.mp3",
+      "title": "Chasing Shadows on Asphalt"
+    },
+    {
+      "src": "m03.mp3",
+      "title": "Night Highway Pursuit"
+    },
+    {
+      "src": "m04.mp3",
+      "title": "Nocturnal Highway"
+    },
+    {
+      "src": "m05.mp3",
+      "title": "Blistering Riffage"
+    },
+    {
+      "src": "m06.mp3",
+      "title": "Tense Cinematic Drift"
+    },
+    {
+      "src": "m07.mp3",
+      "title": "Sudden Brake"
+    },
+    {
+      "src": "m08.mp3",
+      "title": "Sudden Brake"
+    },
+    {
+      "src": "m15.mp3",
+      "title": "Nocturnal Drive"
+    },
+    {
+      "src": "m16.mp3",
+      "title": "Nocturnal Drive x Nocturnal Drive (Mashup)"
+    }
+  ],
+  "raceDirt": [
+    {
+      "src": "m09.mp3",
+      "title": "Gritty Asphalt"
+    },
+    {
+      "src": "m10.mp3",
+      "title": "Howling Desert Night"
+    },
+    {
+      "src": "m14.mp3",
+      "title": "Lonesome Highway"
+    }
+  ],
+  "climax": [
+    {
+      "src": "m11.mp3",
+      "title": "Highway showdown"
+    },
+    {
+      "src": "m12.mp3",
+      "title": "Final Drift Showdown"
+    }
+  ],
+  "pursuit": [
+    {
+      "src": "m13.mp3",
+      "title": "Low Gear Pursuit"
+    }
+  ]
+}
