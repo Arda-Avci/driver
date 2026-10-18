@@ -146,6 +146,14 @@
    "use": "feature card picture"
   },
   {
+   "file": "shortcuts.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 497488,
+   "sha256": "56054b6a57f306bbc31ef275d8d6efe83e65f9c291cd25e0d43cb45ed35c06e1",
+   "use": "feature card picture"
+  },
+  {
    "file": "snow.png",
    "width": 1024,
    "height": 576,
@@ -159,6 +167,14 @@
    "height": 576,
    "bytes": 460381,
    "sha256": "836cb583926e6608537dc8f6e1ecba678ce5b2208d9ed30128b53459ae270ab7",
+   "use": "feature card picture"
+  },
+  {
+   "file": "sprint.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 401766,
+   "sha256": "cfda1a48190726ad79c40120d115264f4349b62891eadd9daa16e3ddb6378ec5",
    "use": "feature card picture"
   },
   {
