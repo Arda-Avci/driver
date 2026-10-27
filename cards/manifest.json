@@ -1,0 +1,197 @@
+{
+ "note": "Feature card pictures (owner exception to the procedural-only rule, 2026-10-18); 1024x576 RGBA, full bleed; files are used as delivered, byte for byte. Until a card's file is listed here it shows its stand-in.",
+ "files": [
+  {
+   "file": "air.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 479643,
+   "sha256": "efe4162ad515821f5b23cadd19d3c5293f06b8d25ec1dcee396e396e8743cb0b",
+   "use": "feature card picture"
+  },
+  {
+   "file": "bike1000.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 477004,
+   "sha256": "076b637815cbe624208fdf6a95a9c69cbaf2bd755926d96bba3f1c5b1c13fb30",
+   "use": "feature card picture"
+  },
+  {
+   "file": "bike1000sc.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 442639,
+   "sha256": "c89056697d15d4803839730fe25a1d86b1611c3ef3012b98ccb6f4b2ae5d4bfa",
+   "use": "feature card picture"
+  },
+  {
+   "file": "bike1400.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 456307,
+   "sha256": "ec05f95569d0c8011f31a0c6d6f1d07c30dee707c61e0d49049d338171c5ed48",
+   "use": "feature card picture"
+  },
+  {
+   "file": "bike900.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 454779,
+   "sha256": "ccafd95a0a17ce5cb888fa61760fe445529273525903c05ae890f32385b265f6",
+   "use": "feature card picture"
+  },
+  {
+   "file": "bikeRival.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 493156,
+   "sha256": "d51cefd28b4ad9e4ac687653c3bd38467760e914aca5863ab2edf307ad62c8ca",
+   "use": "feature card picture"
+  },
+  {
+   "file": "bikes.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 499718,
+   "sha256": "33a1a94de5a20f4fca0be964327442858241eac14d7e8ea595e2443e90e8655c",
+   "use": "feature card picture"
+  },
+  {
+   "file": "city.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 456637,
+   "sha256": "13ae726b7d253190814afe8b931c954fbfbb6a1f8535dce7a6f4ab1e89c28348",
+   "use": "feature card picture"
+  },
+  {
+   "file": "gt.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 490772,
+   "sha256": "01956922592c93773b8154be42838c38ba792fa587ed95bd3a5b13b938b56860",
+   "use": "feature card picture"
+  },
+  {
+   "file": "helicopter.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 472458,
+   "sha256": "0eb31054afc1eba0e88c10ba8fc84ea3bf59ff6fea8fec4a753f74134fb00e7a",
+   "use": "feature card picture"
+  },
+  {
+   "file": "muscle.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 432039,
+   "sha256": "35dd499745bccaf514b5f497cea2e2e7ff5d2915fc7077826fa6335ec29ed401",
+   "use": "feature card picture"
+  },
+  {
+   "file": "night.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 511161,
+   "sha256": "2770e811d61b35b14071996a46c1918350ca6c4de07383c5d32ac9517d32b430",
+   "use": "feature card picture"
+  },
+  {
+   "file": "nitro.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 490379,
+   "sha256": "babb87e57a3e5f813b5b6609ece33e043c9027534d38014f58ef76fa506d9090",
+   "use": "feature card picture"
+  },
+  {
+   "file": "police.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 482014,
+   "sha256": "a670201fe4569521f8a930aad2cb0487957c1859da61508a6a4c9cfeab0a9ce9",
+   "use": "feature card picture"
+  },
+  {
+   "file": "presets.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 434689,
+   "sha256": "19be3dcdaa2d00979cdf6df5099a6b50690a66a50b82172cd89e28abe67a3852",
+   "use": "feature card picture"
+  },
+  {
+   "file": "rain.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 460030,
+   "sha256": "c901ab17613007ef367dc3f0bd0990bffa768299151a5b7eb7b4ce81837302a0",
+   "use": "feature card picture"
+  },
+  {
+   "file": "ride.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 503370,
+   "sha256": "558b938e793dd1a2652a6be2e33a5f854319a7249088538e9ef88b0d6271b6a3",
+   "use": "feature card picture"
+  },
+  {
+   "file": "roadblock.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 497068,
+   "sha256": "1992e6e50b964e9320dcd6c545526644e3d48ed324ea54d8643c94e00460f5ab",
+   "use": "feature card picture"
+  },
+  {
+   "file": "shortcuts.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 497488,
+   "sha256": "56054b6a57f306bbc31ef275d8d6efe83e65f9c291cd25e0d43cb45ed35c06e1",
+   "use": "feature card picture"
+  },
+  {
+   "file": "snow.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 471282,
+   "sha256": "b2003621bc713358e92c87031d377c6299ae233551dcdfbc3dec65bfde56a667",
+   "use": "feature card picture"
+  },
+  {
+   "file": "spikes.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 460381,
+   "sha256": "836cb583926e6608537dc8f6e1ecba678ce5b2208d9ed30128b53459ae270ab7",
+   "use": "feature card picture"
+  },
+  {
+   "file": "sprint.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 401766,
+   "sha256": "cfda1a48190726ad79c40120d115264f4349b62891eadd9daa16e3ddb6378ec5",
+   "use": "feature card picture"
+  },
+  {
+   "file": "stepUp.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 494789,
+   "sha256": "813be880d25f77bdd64e3c2d972afec6f2a5f38d2eb7723afae7571e625639b8",
+   "use": "feature card picture"
+  },
+  {
+   "file": "traffic.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 472170,
+   "sha256": "a55c9747db8a9611bc4b8d2f5a47f280da76ea79839371f1e3712f613477f3cc",
+   "use": "feature card picture"
+  }
+ ]
+}

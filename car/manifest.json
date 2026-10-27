@@ -1,0 +1,37 @@
+{
+ "note": "Car card pictures (owner exception to the procedural-only rule); files are used as delivered, byte for byte. Race Red; other paints are recoloured in the browser (src/game/carTint.ts).",
+ "files": [
+  {
+   "file": "hero-wedge.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 359013,
+   "sha256": "eaf9f49b99e58dfe4851dbc7fd984a36f4199938d4006efd1ecb1f11ef933cdd",
+   "use": "vehicle list card (not loaded in a race)"
+  },
+  {
+   "file": "hero-hatch.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 460288,
+   "sha256": "791d3a0fb8bba53fdf7fc689182976484a5cbefc8f59ab43ea6d14f8547f1567",
+   "use": "vehicle list card (not loaded in a race)"
+  },
+  {
+   "file": "hero-muscle.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 444640,
+   "sha256": "6864fc800381af811ad684d1407e3130463eefa92196ce64dd6ff36cb9bb6c6d",
+   "use": "vehicle list card (not loaded in a race)"
+  },
+  {
+   "file": "hero-gt.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 446880,
+   "sha256": "6f8dc1aa21be4aba0e309915b7fa0ab4e13150f818742429aec5d9fb011a6f32",
+   "use": "vehicle list card (not loaded in a race)"
+  }
+ ]
+}

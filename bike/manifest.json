@@ -26,6 +26,54 @@
    "use": "helmet shell wrap"
   },
   {
+   "file": "helmet-m1.png",
+   "width": 512,
+   "height": 256,
+   "bytes": 274109,
+   "sha256": "fffed51d2fed38efedb509cf92201f882c1cb6f4921d5485c6dac25aef398a45",
+   "use": "helmet shell wrap"
+  },
+  {
+   "file": "helmet-m2.png",
+   "width": 512,
+   "height": 256,
+   "bytes": 273377,
+   "sha256": "c35b9ae3972f632ff47c8adfd8ff49dccedad62c542c38b473a816bd995f2ff1",
+   "use": "helmet shell wrap"
+  },
+  {
+   "file": "helmet-m3.png",
+   "width": 512,
+   "height": 256,
+   "bytes": 240264,
+   "sha256": "9f18e1a56b3b59ff0b2813a6651c9f1e7066985f58a91528b9860edcfc990f9d",
+   "use": "helmet shell wrap"
+  },
+  {
+   "file": "helmet-f1.png",
+   "width": 512,
+   "height": 256,
+   "bytes": 227725,
+   "sha256": "b52e489d096131209ce7d5c80dc667fd9d6c3642c394cc1b82034bcf801fd28a",
+   "use": "helmet shell wrap"
+  },
+  {
+   "file": "helmet-f2.png",
+   "width": 512,
+   "height": 256,
+   "bytes": 293771,
+   "sha256": "f146bc0cb4db78f72ed162f553f0bf44f71f65d62cc9ff6d4ead0d2fa920534e",
+   "use": "helmet shell wrap"
+  },
+  {
+   "file": "helmet-f3.png",
+   "width": 512,
+   "height": 256,
+   "bytes": 163432,
+   "sha256": "dc162d3f9d7a026129c0642a69b07b4d14adbc7d08dbcc953df886c8ed74a6fd",
+   "use": "helmet shell wrap"
+  },
+  {
    "file": "hero-1000.png",
    "width": 1024,
    "height": 576,
@@ -63,6 +111,30 @@
    "height": 576,
    "bytes": 488384,
    "sha256": "e316a57998df1b6bba8f0ae22cfd4cf9d0030d6322a17c29f7a42773efcf9fe1",
+   "use": "vehicle list card (not loaded in a race)"
+  },
+  {
+   "file": "hero-900.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 452043,
+   "sha256": "7d6cfe88ab90aecbd4058808420059d9bd5de8059000c6a056351412924efd7a",
+   "use": "vehicle list card (not loaded in a race)"
+  },
+  {
+   "file": "hero-1400.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 469865,
+   "sha256": "58c55cc037e7cba189dd605e5fd2cd82f2a66562de71f4d364f5ef169c46caa7",
+   "use": "vehicle list card (not loaded in a race)"
+  },
+  {
+   "file": "hero-1000sc.png",
+   "width": 1024,
+   "height": 576,
+   "bytes": 465037,
+   "sha256": "047dee2b6c2b7005eb83090fa6a7adfa7757f8bb6ebf87b2a9c71b915b474fd4",
    "use": "vehicle list card (not loaded in a race)"
   },
   {
