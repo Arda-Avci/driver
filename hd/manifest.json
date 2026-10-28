@@ -1,0 +1,25 @@
+{
+  "note": "HD car images (owner exception to the procedural-only rule). Fetched only on the HD tier (src/core/hdTier.ts); only files listed here are loaded, and a missing file keeps the procedural look. The hero pictures are the car cards' own (public/car).",
+  "files": [
+    "rim-wedge.png",
+    "headlight-wedge.png",
+    "taillight-wedge.png",
+    "grille-wedge.png",
+    "livery-wedge.png",
+    "rim-muscle.png",
+    "headlight-muscle.png",
+    "taillight-muscle.png",
+    "grille-muscle.png",
+    "livery-muscle.png",
+    "rim-gt.png",
+    "headlight-gt.png",
+    "taillight-gt.png",
+    "grille-gt.png",
+    "livery-gt.png",
+    "rim-hatch.png",
+    "headlight-hatch.png",
+    "taillight-hatch.png",
+    "grille-hatch.png",
+    "livery-hatch.png"
+  ]
+}
