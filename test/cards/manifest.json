@@ -1,196 +1,196 @@
 {
- "note": "Feature card pictures (owner exception to the procedural-only rule, 2026-10-18); 1024x576 RGBA, full bleed; files are used as delivered, byte for byte. Until a card's file is listed here it shows its stand-in.",
+ "note": "Feature card pictures (owner exception to the procedural-only rule, 2026-10-18); 1024x576 RGBA, full bleed; files are the delivered pictures with an invisible per-release watermark (owner's rule change 2026-10-29, copy protection package C; scripts/protect/watermark.mjs); the as-delivered originals' sha256 and pHash are kept as provenance in the private source repo. Until a card's file is listed here it shows its stand-in.",
  "files": [
   {
    "file": "air.png",
    "width": 1024,
    "height": 576,
-   "bytes": 479643,
-   "sha256": "efe4162ad515821f5b23cadd19d3c5293f06b8d25ec1dcee396e396e8743cb0b",
+   "bytes": 730819,
+   "sha256": "6bf8bd9eb930636eecbed7dc3e736a60892426810e46f3ffbb5005fec001df74",
    "use": "feature card picture"
   },
   {
    "file": "bike1000.png",
    "width": 1024,
    "height": 576,
-   "bytes": 477004,
-   "sha256": "076b637815cbe624208fdf6a95a9c69cbaf2bd755926d96bba3f1c5b1c13fb30",
+   "bytes": 701761,
+   "sha256": "a16241fc8329c12fe0a8a0e15f823c23d2f01d262e040be432e42afc6529d837",
    "use": "feature card picture"
   },
   {
    "file": "bike1000sc.png",
    "width": 1024,
    "height": 576,
-   "bytes": 442639,
-   "sha256": "c89056697d15d4803839730fe25a1d86b1611c3ef3012b98ccb6f4b2ae5d4bfa",
+   "bytes": 692332,
+   "sha256": "76a56fc3c34ddb322252f2f4cf4c83a650ecb8ceef0633849c3f709b6dd4bc22",
    "use": "feature card picture"
   },
   {
    "file": "bike1400.png",
    "width": 1024,
    "height": 576,
-   "bytes": 456307,
-   "sha256": "ec05f95569d0c8011f31a0c6d6f1d07c30dee707c61e0d49049d338171c5ed48",
+   "bytes": 678013,
+   "sha256": "0ed4e85b19fdfc3ed587dc39bb668e68dfdd6c8db34ed97dd5f73a6d5932895c",
    "use": "feature card picture"
   },
   {
    "file": "bike900.png",
    "width": 1024,
    "height": 576,
-   "bytes": 454779,
-   "sha256": "ccafd95a0a17ce5cb888fa61760fe445529273525903c05ae890f32385b265f6",
+   "bytes": 691102,
+   "sha256": "e3fd9acff1e9f6258e2ca99a93e50c6c451a98a1f126f8c945869c792ec8085f",
    "use": "feature card picture"
   },
   {
    "file": "bikeRival.png",
    "width": 1024,
    "height": 576,
-   "bytes": 493156,
-   "sha256": "d51cefd28b4ad9e4ac687653c3bd38467760e914aca5863ab2edf307ad62c8ca",
+   "bytes": 726935,
+   "sha256": "620419e723107f51023ea9355d74a1bd5383952ba5817f3220039ea1b824a34c",
    "use": "feature card picture"
   },
   {
    "file": "bikes.png",
    "width": 1024,
    "height": 576,
-   "bytes": 499718,
-   "sha256": "33a1a94de5a20f4fca0be964327442858241eac14d7e8ea595e2443e90e8655c",
+   "bytes": 735855,
+   "sha256": "7a4c8be8660f3f5245455dd23203eaf42d9156026cb27d805b513516f9a4ee87",
    "use": "feature card picture"
   },
   {
    "file": "city.png",
    "width": 1024,
    "height": 576,
-   "bytes": 456637,
-   "sha256": "13ae726b7d253190814afe8b931c954fbfbb6a1f8535dce7a6f4ab1e89c28348",
+   "bytes": 686896,
+   "sha256": "c728f41a37db14bcdfa1fb5299cd1bc3d01f716d818f5759425eeb13cd9d8660",
    "use": "feature card picture"
   },
   {
    "file": "gt.png",
    "width": 1024,
    "height": 576,
-   "bytes": 490772,
-   "sha256": "01956922592c93773b8154be42838c38ba792fa587ed95bd3a5b13b938b56860",
+   "bytes": 722600,
+   "sha256": "8e30d75193733361ec966a6686a1bb9d4a7cd2149e2b127a5e9b8c73d87e68cd",
    "use": "feature card picture"
   },
   {
    "file": "helicopter.png",
    "width": 1024,
    "height": 576,
-   "bytes": 472458,
-   "sha256": "0eb31054afc1eba0e88c10ba8fc84ea3bf59ff6fea8fec4a753f74134fb00e7a",
+   "bytes": 692860,
+   "sha256": "be82179a162cb67863df0dd21b156f56673e6065c9ced48c6c54934f4237296d",
    "use": "feature card picture"
   },
   {
    "file": "muscle.png",
    "width": 1024,
    "height": 576,
-   "bytes": 432039,
-   "sha256": "35dd499745bccaf514b5f497cea2e2e7ff5d2915fc7077826fa6335ec29ed401",
+   "bytes": 682032,
+   "sha256": "34d92cd414a847e5c1aa74f1ab4fb019353025f0c909486eac83592294c054c4",
    "use": "feature card picture"
   },
   {
    "file": "night.png",
    "width": 1024,
    "height": 576,
-   "bytes": 511161,
-   "sha256": "2770e811d61b35b14071996a46c1918350ca6c4de07383c5d32ac9517d32b430",
+   "bytes": 717539,
+   "sha256": "bc54a69e84fa9f0f918029898ba7b55458956db292f8d6c0651130bed598382a",
    "use": "feature card picture"
   },
   {
    "file": "nitro.png",
    "width": 1024,
    "height": 576,
-   "bytes": 490379,
-   "sha256": "babb87e57a3e5f813b5b6609ece33e043c9027534d38014f58ef76fa506d9090",
+   "bytes": 758954,
+   "sha256": "266e6bed150025b69f8a5f3849e181ff78835e434489ef277d59a32f7fb4cd4d",
    "use": "feature card picture"
   },
   {
    "file": "police.png",
    "width": 1024,
    "height": 576,
-   "bytes": 482014,
-   "sha256": "a670201fe4569521f8a930aad2cb0487957c1859da61508a6a4c9cfeab0a9ce9",
+   "bytes": 728948,
+   "sha256": "4c590b44d17ceacc301403e3eb9df3ca1e9a82ae33505514062069e3de241e01",
    "use": "feature card picture"
   },
   {
    "file": "presets.png",
    "width": 1024,
    "height": 576,
-   "bytes": 434689,
-   "sha256": "19be3dcdaa2d00979cdf6df5099a6b50690a66a50b82172cd89e28abe67a3852",
+   "bytes": 680718,
+   "sha256": "35fd5937270a69350d496121feaf6b360b50fa2db822f1e99de9b0932fde717a",
    "use": "feature card picture"
   },
   {
    "file": "rain.png",
    "width": 1024,
    "height": 576,
-   "bytes": 460030,
-   "sha256": "c901ab17613007ef367dc3f0bd0990bffa768299151a5b7eb7b4ce81837302a0",
+   "bytes": 728447,
+   "sha256": "8a8c93476110d3c6f1b82a96243325ad13b0ff07680f9e5f9aed4c1302547ee6",
    "use": "feature card picture"
   },
   {
    "file": "ride.png",
    "width": 1024,
    "height": 576,
-   "bytes": 503370,
-   "sha256": "558b938e793dd1a2652a6be2e33a5f854319a7249088538e9ef88b0d6271b6a3",
+   "bytes": 729300,
+   "sha256": "0682b4f11c8e593708d8b273c6164aeedfeec33289ce570cc054eb7f6cae3aef",
    "use": "feature card picture"
   },
   {
    "file": "roadblock.png",
    "width": 1024,
    "height": 576,
-   "bytes": 497068,
-   "sha256": "1992e6e50b964e9320dcd6c545526644e3d48ed324ea54d8643c94e00460f5ab",
+   "bytes": 745944,
+   "sha256": "2ad17be9177c22d40bc2ea7144149f0f53ba683685604fb1117968af32a6c865",
    "use": "feature card picture"
   },
   {
    "file": "shortcuts.png",
    "width": 1024,
    "height": 576,
-   "bytes": 497488,
-   "sha256": "56054b6a57f306bbc31ef275d8d6efe83e65f9c291cd25e0d43cb45ed35c06e1",
+   "bytes": 704126,
+   "sha256": "3c579716cb23a6cc92f56248360ae3dae63ccbd22b2707b743f4887499930c1c",
    "use": "feature card picture"
   },
   {
    "file": "snow.png",
    "width": 1024,
    "height": 576,
-   "bytes": 471282,
-   "sha256": "b2003621bc713358e92c87031d377c6299ae233551dcdfbc3dec65bfde56a667",
+   "bytes": 718801,
+   "sha256": "4ddd86634d7be73bc7d39334a48b144043d206738cc386bf3c1ca139c75d3308",
    "use": "feature card picture"
   },
   {
    "file": "spikes.png",
    "width": 1024,
    "height": 576,
-   "bytes": 460381,
-   "sha256": "836cb583926e6608537dc8f6e1ecba678ce5b2208d9ed30128b53459ae270ab7",
+   "bytes": 705071,
+   "sha256": "501186f8a07cec70366b433a2acf6e26e0ecc5c7864cd42b75121ce0b9328d56",
    "use": "feature card picture"
   },
   {
    "file": "sprint.png",
    "width": 1024,
    "height": 576,
-   "bytes": 401766,
-   "sha256": "cfda1a48190726ad79c40120d115264f4349b62891eadd9daa16e3ddb6378ec5",
+   "bytes": 655525,
+   "sha256": "b2f8836a7c439efbfc6c0987b32e34a2fad8cc0d3609941a54dbe6affdc71ba2",
    "use": "feature card picture"
   },
   {
    "file": "stepUp.png",
    "width": 1024,
    "height": 576,
-   "bytes": 494789,
-   "sha256": "813be880d25f77bdd64e3c2d972afec6f2a5f38d2eb7723afae7571e625639b8",
+   "bytes": 731764,
+   "sha256": "dc9b5436cb3ce50a28da9cbf041ffb85d43c2b28e6633185a57556f8ed1bf71f",
    "use": "feature card picture"
   },
   {
    "file": "traffic.png",
    "width": 1024,
    "height": 576,
-   "bytes": 472170,
-   "sha256": "a55c9747db8a9611bc4b8d2f5a47f280da76ea79839371f1e3712f613477f3cc",
+   "bytes": 709549,
+   "sha256": "2305d03199994e190b50f8e413239ef1678b87a5352bcfbacf3133fb1ef7c47b",
    "use": "feature card picture"
   }
  ]

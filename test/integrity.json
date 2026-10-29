@@ -1,0 +1,461 @@
+{
+ "note": "DRIVER (c) 2026 Arda AVCI. All rights reserved. The SHA-256 of every file of this published copy and the integrity chain: index.html loads the JS with SRI, the JS pins the manifests, the manifests list each picture's SHA-256. A copy that differs is not the original: https://arda-avci.github.io/driver/",
+ "version": "5.0.3-test.1",
+ "channel": "test",
+ "build": "a646993",
+ "chain": {
+  "pins": {
+   "bike/manifest.json": "sha256-YO+FpR1Wo9GkcYr0qg9SqprV7RBCQ+/WdzmfxJj3cRg=",
+   "cards/manifest.json": "sha256-YrIiYZFZn48WLAFbGCF0UGchthUTmrIj5XlIU4naHTI=",
+   "car/manifest.json": "sha256-wV+o19xxx2gPnelHISiQSmQ8mcDTVpS+NEMFaFZ/Bjc=",
+   "hd/manifest.json": "sha256-tiVaRlMPJNvr3is71Hpf7+owR8qcX4Cj97UaAfQm+vE=",
+   "audio/music.json": "sha256-ONozHbxNdDmBvXcCNin0wIBgN3OjogtAOkABgUTbjxM="
+  }
+ },
+ "files": {
+  "assets/OutputPass-CkAKjyIT.js": {
+   "bytes": 19008,
+   "sha256": "c6385acd679c347731344198983467f0af061b7c3b8077e903763364bade5842"
+  },
+  "assets/aaGames-CIulNHMa.js": {
+   "bytes": 11569,
+   "sha256": "8e6e310695eb264da6fa8706244631f30aaa608de8fb41c5e4e52ad317bf2cc0"
+  },
+  "assets/audio-Cbb7KUZj.js": {
+   "bytes": 97909,
+   "sha256": "c06892c978c24d8865582347012e9bef542f4f7bb371471e73c37e3dd15905ef"
+  },
+  "assets/bikeRider-BDLwI1qj.js": {
+   "bytes": 202334,
+   "sha256": "baeddeae549260e5fbb0a734d96381f3ea8dbd721bf4d5b8678ace2cbb879135"
+  },
+  "assets/engineLab-C-FeIgNg.js": {
+   "bytes": 9692,
+   "sha256": "d885aabcc631fe03cb68d8bf6589fefcac2c1079049dd9e396e95d76c0595f75"
+  },
+  "assets/index-CfQc-kMn.js": {
+   "bytes": 2959,
+   "sha256": "aac0f446dabe6b5a995756c8f863cceac29425d7fdca419edc82bdfde55d169f"
+  },
+  "assets/main-ClbCiP3X.js": {
+   "bytes": 1053103,
+   "sha256": "afc9639064be9a6b9bc83b63fcaf4d71344f57bc8d73e945e97607df2c9bf63c"
+  },
+  "assets/startGate-BENeJiMF.js": {
+   "bytes": 7965,
+   "sha256": "97809f50d98742d1659d048a9e7deb433f2a09ec3b3e4cc9fea18c3d62ab3dfd"
+  },
+  "assets/three.module-DbuLXPzh.js": {
+   "bytes": 592425,
+   "sha256": "eb17dd5ed5575304b6127b094dc86ce2c9b59fec20a8fc1631d73f2c7222f6c8"
+  },
+  "audio/m01.mp3": {
+   "bytes": 4977702,
+   "sha256": "df43c3a3bc4b2f423fbcf80aa474487feef6894b21e75bff3bb23d7ce04bea4e"
+  },
+  "audio/m02.mp3": {
+   "bytes": 5002411,
+   "sha256": "6dd05fed9dfba26af940ccad54326a280eb46507776b783c4778629fce1ade9d"
+  },
+  "audio/m03.mp3": {
+   "bytes": 5003851,
+   "sha256": "60f9b2360ad4662a6d98235d5b3e1a535865b0f2d3e6d1c7abc5d355944e4a51"
+  },
+  "audio/m04.mp3": {
+   "bytes": 4415088,
+   "sha256": "42a1a68369f0941c68a92f7d5e1599407d1b46a113c4db02b57427d290c5c526"
+  },
+  "audio/m05.mp3": {
+   "bytes": 4076461,
+   "sha256": "640f615b124306a4f35b7f428b006e440a95a5bd23d0f9212e1fb1b9fe777d75"
+  },
+  "audio/m06.mp3": {
+   "bytes": 4664097,
+   "sha256": "bb1ae5c08e2690cc61faac2e71ae01b29e9b3af38174c668ec26b5374c61c806"
+  },
+  "audio/m07.mp3": {
+   "bytes": 4613415,
+   "sha256": "b2bee79ba438918f9b006d2c483fd945fd84c70ee89a6b77ececd3c1f3610a7d"
+  },
+  "audio/m08.mp3": {
+   "bytes": 4544979,
+   "sha256": "ff503d2d7fade9e722f9b140c2290d55dcc07fb1e94575fc978da1bbef4935eb"
+  },
+  "audio/m09.mp3": {
+   "bytes": 4105590,
+   "sha256": "c1d3f2784d0aa9e5f486bff2cb808d239637c84fbac98c6c56fe7cf24f29c15c"
+  },
+  "audio/m10.mp3": {
+   "bytes": 4615798,
+   "sha256": "b5cad8d97572a7f81b98765cc0d4bd8bcd4345cfe561e883a27d02415ad3ebe2"
+  },
+  "audio/m11.mp3": {
+   "bytes": 4220452,
+   "sha256": "6f3555b5085f08a45841b39e32508a90573b62b1406da4c1c4296d801ddd3195"
+  },
+  "audio/m12.mp3": {
+   "bytes": 4647711,
+   "sha256": "74adb5bf6806838a2092225e4b451614c11c18993b9658445cd82c1ce2b77f30"
+  },
+  "audio/m13.mp3": {
+   "bytes": 6527740,
+   "sha256": "5a6d7e612fa0a5ac5161cf76720e49f4eaa1c3493823ab47c814abe1e62b5ffd"
+  },
+  "audio/m14.mp3": {
+   "bytes": 5173715,
+   "sha256": "8948c12c13d74b6a74d2624a5c693ee2a9461a08dc4812b83235e2a783f45be0"
+  },
+  "audio/m15.mp3": {
+   "bytes": 3231244,
+   "sha256": "c3c45c6e8f557fc86ecd4bd4b2dc254616f0f214edbc95b5c69211e8c7ec4e08"
+  },
+  "audio/m16.mp3": {
+   "bytes": 4566256,
+   "sha256": "02e963025e6dd6824d37c3ee5b21c77a8c0c918131b9896061e17e41ddb712be"
+  },
+  "audio/m17.mp3": {
+   "bytes": 1382368,
+   "sha256": "055e725ff386a7bb05b1a028007e036caae29ad8f0d89620c4dfca9b4c1be348"
+  },
+  "audio/music.json": {
+   "bytes": 1468,
+   "sha256": "38da331dbc4d743981bd77023629f4c080603773a3a20b403a40018144db8f13"
+  },
+  "bike/helmet-1.png": {
+   "bytes": 98119,
+   "sha256": "db2421a5a2589e9baa5dbcde974546f762d4b470c7b1ea44314de2839a13d985"
+  },
+  "bike/helmet-2.png": {
+   "bytes": 139653,
+   "sha256": "8ded8faaacbfe356b95ea437c3c58f18001fab7b5926ac6d174401c8f53c4573"
+  },
+  "bike/helmet-3.png": {
+   "bytes": 113368,
+   "sha256": "d71c31d526513320636c2d4ee9966d0ebdbf415ea9b0e2facd746b69d298ac85"
+  },
+  "bike/helmet-f1.png": {
+   "bytes": 227725,
+   "sha256": "b52e489d096131209ce7d5c80dc667fd9d6c3642c394cc1b82034bcf801fd28a"
+  },
+  "bike/helmet-f2.png": {
+   "bytes": 293771,
+   "sha256": "f146bc0cb4db78f72ed162f553f0bf44f71f65d62cc9ff6d4ead0d2fa920534e"
+  },
+  "bike/helmet-f3.png": {
+   "bytes": 163432,
+   "sha256": "dc162d3f9d7a026129c0642a69b07b4d14adbc7d08dbcc953df886c8ed74a6fd"
+  },
+  "bike/helmet-m1.png": {
+   "bytes": 274109,
+   "sha256": "fffed51d2fed38efedb509cf92201f882c1cb6f4921d5485c6dac25aef398a45"
+  },
+  "bike/helmet-m2.png": {
+   "bytes": 273377,
+   "sha256": "c35b9ae3972f632ff47c8adfd8ff49dccedad62c542c38b473a816bd995f2ff1"
+  },
+  "bike/helmet-m3.png": {
+   "bytes": 240264,
+   "sha256": "9f18e1a56b3b59ff0b2813a6651c9f1e7066985f58a91528b9860edcfc990f9d"
+  },
+  "bike/hero-1000.png": {
+   "bytes": 449026,
+   "sha256": "d2eca8ea6e1ad1f3e1d9cc1ebbdd272264d2dd985a549cff0e91af6429dc4138"
+  },
+  "bike/hero-1000sc.png": {
+   "bytes": 453033,
+   "sha256": "b14ec83cb58b8be2215e02ad953dc28fe781798c183d2a916fa2d939a988cb60"
+  },
+  "bike/hero-125.png": {
+   "bytes": 411448,
+   "sha256": "28b03c9d93e7b78eddc2283e70c18242ca59a8e6b4b0f8d15a5c133467112d14"
+  },
+  "bike/hero-1400.png": {
+   "bytes": 459436,
+   "sha256": "aeb54cc0898b2be9f74f2f98bfdf85b51423c9b6ae127b39af2624dee7b557cd"
+  },
+  "bike/hero-250.png": {
+   "bytes": 461438,
+   "sha256": "51e6ecf1d1bc5b4f7556cf52ac8a10487144a5eac1776cdbab0875898a6dae0a"
+  },
+  "bike/hero-300.png": {
+   "bytes": 449081,
+   "sha256": "1217011fd02dfe84c3eec90a27f446af215816c55d883b674097cebcf1bef224"
+  },
+  "bike/hero-600.png": {
+   "bytes": 486952,
+   "sha256": "c9be96f4e492294100ce17908012183746aa8a834f3907a73d6119baf851cd10"
+  },
+  "bike/hero-900.png": {
+   "bytes": 445278,
+   "sha256": "739ad717da6877156db0098375024f4ba2e69acef92bce2fc820cbb18564ce98"
+  },
+  "bike/livery-1000.png": {
+   "bytes": 246517,
+   "sha256": "dd32cddd4a9c8703b647866173c6ae23ba7ca0c1378361ca479a3dd6f53f7a8d"
+  },
+  "bike/livery-125.png": {
+   "bytes": 222182,
+   "sha256": "14f19df5c803c694faf9498c425eae13f71e433f5e6a4d6401bdcd1a81684474"
+  },
+  "bike/livery-250.png": {
+   "bytes": 279810,
+   "sha256": "da49d2e8131adaab2a689dbfd83eb0c8b9f28fb9314fd5bccb909e53ac374bf2"
+  },
+  "bike/livery-300.png": {
+   "bytes": 278203,
+   "sha256": "8514ee3aa212b0cb647d6032bcdfa736dbf1cd738441741156e34e03fa85c448"
+  },
+  "bike/livery-600.png": {
+   "bytes": 272923,
+   "sha256": "93011776cb92003df63b09047efd566582b157222d067fc770619f8015366bc6"
+  },
+  "bike/manifest.json": {
+   "bytes": 7311,
+   "sha256": "60ef85a51d56a3d1a4718af4aa0f52aa9ad5ed104243efd677399fc498f77118"
+  },
+  "bike/rim-1000.png": {
+   "bytes": 301712,
+   "sha256": "a9d62bcf2e96c6f9aece862399fa9ccb3ce23f008a457e65fbfdb4e6448b1cc5"
+  },
+  "bike/rim-125.png": {
+   "bytes": 308707,
+   "sha256": "acb445d6803e33d9eed655c84add8977fbdd3654ec9bbcebf07714587145e431"
+  },
+  "bike/rim-250.png": {
+   "bytes": 247923,
+   "sha256": "b243a704fa41d6945888debbfef6638417ad1dea5dec04adae938c614a198fbf"
+  },
+  "bike/rim-300.png": {
+   "bytes": 263167,
+   "sha256": "ab5067935408809a26094c589050a5695587669244d4be28ecaf5458306f607a"
+  },
+  "bike/rim-600.png": {
+   "bytes": 223958,
+   "sha256": "a40a8be6b8a99b7328c2d871f6580c2b00f46d1c020168672e7f16fa9f6ebc7c"
+  },
+  "bike/spark.png": {
+   "bytes": 19309,
+   "sha256": "bea51e3ac8ed7b7c67ac44025923a579bbc1df6b91429a4bac24e43150ebda81"
+  },
+  "bike/suit-1.png": {
+   "bytes": 424130,
+   "sha256": "b8b269a59ad877410cdc638a03beb554f3c97d1a4ee73f6e0099f78d328aa1b3"
+  },
+  "bike/suit-2.png": {
+   "bytes": 460002,
+   "sha256": "12635a37ae874b79c58ae5e2b3a19b17893ca5398ff91bc481c57da42e8ee9e5"
+  },
+  "bike/visor.png": {
+   "bytes": 38862,
+   "sha256": "517b2c9982b8e4630fb30abdb918522c2024655987c3d8b69fa694d3dd394f39"
+  },
+  "car/hero-gt.png": {
+   "bytes": 451256,
+   "sha256": "84c0b936330b84472db08ffa47c48bd1afac0efd5af3daa970b372a521b7446c"
+  },
+  "car/hero-hatch.png": {
+   "bytes": 459955,
+   "sha256": "30f9832cadd8068e32978c89000a2472c4a2101ded4cfc0e51412e134f22aa4d"
+  },
+  "car/hero-muscle.png": {
+   "bytes": 449056,
+   "sha256": "cbbba0b05985e92c745c6c577b8f9102c806c811ec7c5dd2f23a9ce41d40dc81"
+  },
+  "car/hero-wedge.png": {
+   "bytes": 362041,
+   "sha256": "ae6f0f17bddf777fb6dc8092f1d86dd9c01dd438389fd76b5fdec1ff95e3cde1"
+  },
+  "car/manifest.json": {
+   "bytes": 1379,
+   "sha256": "c15fa8d7dc71c7680f9de9472128904a643c99c0d35694be34430568567f0637"
+  },
+  "cards/air.png": {
+   "bytes": 730819,
+   "sha256": "6bf8bd9eb930636eecbed7dc3e736a60892426810e46f3ffbb5005fec001df74"
+  },
+  "cards/bike1000.png": {
+   "bytes": 701761,
+   "sha256": "a16241fc8329c12fe0a8a0e15f823c23d2f01d262e040be432e42afc6529d837"
+  },
+  "cards/bike1000sc.png": {
+   "bytes": 692332,
+   "sha256": "76a56fc3c34ddb322252f2f4cf4c83a650ecb8ceef0633849c3f709b6dd4bc22"
+  },
+  "cards/bike1400.png": {
+   "bytes": 678013,
+   "sha256": "0ed4e85b19fdfc3ed587dc39bb668e68dfdd6c8db34ed97dd5f73a6d5932895c"
+  },
+  "cards/bike900.png": {
+   "bytes": 691102,
+   "sha256": "e3fd9acff1e9f6258e2ca99a93e50c6c451a98a1f126f8c945869c792ec8085f"
+  },
+  "cards/bikeRival.png": {
+   "bytes": 726935,
+   "sha256": "620419e723107f51023ea9355d74a1bd5383952ba5817f3220039ea1b824a34c"
+  },
+  "cards/bikes.png": {
+   "bytes": 735855,
+   "sha256": "7a4c8be8660f3f5245455dd23203eaf42d9156026cb27d805b513516f9a4ee87"
+  },
+  "cards/city.png": {
+   "bytes": 686896,
+   "sha256": "c728f41a37db14bcdfa1fb5299cd1bc3d01f716d818f5759425eeb13cd9d8660"
+  },
+  "cards/gt.png": {
+   "bytes": 722600,
+   "sha256": "8e30d75193733361ec966a6686a1bb9d4a7cd2149e2b127a5e9b8c73d87e68cd"
+  },
+  "cards/helicopter.png": {
+   "bytes": 692860,
+   "sha256": "be82179a162cb67863df0dd21b156f56673e6065c9ced48c6c54934f4237296d"
+  },
+  "cards/manifest.json": {
+   "bytes": 5556,
+   "sha256": "62b2226191599f8f162c015b182174506721b615139ab223e579485389da1d32"
+  },
+  "cards/muscle.png": {
+   "bytes": 682032,
+   "sha256": "34d92cd414a847e5c1aa74f1ab4fb019353025f0c909486eac83592294c054c4"
+  },
+  "cards/night.png": {
+   "bytes": 717539,
+   "sha256": "bc54a69e84fa9f0f918029898ba7b55458956db292f8d6c0651130bed598382a"
+  },
+  "cards/nitro.png": {
+   "bytes": 758954,
+   "sha256": "266e6bed150025b69f8a5f3849e181ff78835e434489ef277d59a32f7fb4cd4d"
+  },
+  "cards/police.png": {
+   "bytes": 728948,
+   "sha256": "4c590b44d17ceacc301403e3eb9df3ca1e9a82ae33505514062069e3de241e01"
+  },
+  "cards/presets.png": {
+   "bytes": 680718,
+   "sha256": "35fd5937270a69350d496121feaf6b360b50fa2db822f1e99de9b0932fde717a"
+  },
+  "cards/rain.png": {
+   "bytes": 728447,
+   "sha256": "8a8c93476110d3c6f1b82a96243325ad13b0ff07680f9e5f9aed4c1302547ee6"
+  },
+  "cards/ride.png": {
+   "bytes": 729300,
+   "sha256": "0682b4f11c8e593708d8b273c6164aeedfeec33289ce570cc054eb7f6cae3aef"
+  },
+  "cards/roadblock.png": {
+   "bytes": 745944,
+   "sha256": "2ad17be9177c22d40bc2ea7144149f0f53ba683685604fb1117968af32a6c865"
+  },
+  "cards/shortcuts.png": {
+   "bytes": 704126,
+   "sha256": "3c579716cb23a6cc92f56248360ae3dae63ccbd22b2707b743f4887499930c1c"
+  },
+  "cards/snow.png": {
+   "bytes": 718801,
+   "sha256": "4ddd86634d7be73bc7d39334a48b144043d206738cc386bf3c1ca139c75d3308"
+  },
+  "cards/spikes.png": {
+   "bytes": 705071,
+   "sha256": "501186f8a07cec70366b433a2acf6e26e0ecc5c7864cd42b75121ce0b9328d56"
+  },
+  "cards/sprint.png": {
+   "bytes": 655525,
+   "sha256": "b2f8836a7c439efbfc6c0987b32e34a2fad8cc0d3609941a54dbe6affdc71ba2"
+  },
+  "cards/stepUp.png": {
+   "bytes": 731764,
+   "sha256": "dc9b5436cb3ce50a28da9cbf041ffb85d43c2b28e6633185a57556f8ed1bf71f"
+  },
+  "cards/traffic.png": {
+   "bytes": 709549,
+   "sha256": "2305d03199994e190b50f8e413239ef1678b87a5352bcfbacf3133fb1ef7c47b"
+  },
+  "hd/grille-gt.png": {
+   "bytes": 184815,
+   "sha256": "a112c403547093851cb31be76fd84b49f5e2bbe8cd5435470e33f9be7512e8ef"
+  },
+  "hd/grille-hatch.png": {
+   "bytes": 105464,
+   "sha256": "acfc7b333037f07b6e7203ed85909f90a80365351f2f37a2d785275078a85252"
+  },
+  "hd/grille-muscle.png": {
+   "bytes": 116822,
+   "sha256": "c4ca706c0fef26423d6746d7c0d0af423ef59e6fd57503350be9829aa2ef0dfd"
+  },
+  "hd/grille-wedge.png": {
+   "bytes": 65499,
+   "sha256": "6d86543fd72fc9b2f4bf776715c4c3efb5fe8b167696dab37f19b5b0f8480d2a"
+  },
+  "hd/headlight-gt.png": {
+   "bytes": 30250,
+   "sha256": "08a95018dbf717388dd92c85f98d135b5f50e7c70bbd65d01195c67d6a486176"
+  },
+  "hd/headlight-hatch.png": {
+   "bytes": 33744,
+   "sha256": "b7fdae2374bbf723b934255da05d43ca103a0ffe5c82dc9033b4615aeb5d4f94"
+  },
+  "hd/headlight-muscle.png": {
+   "bytes": 35074,
+   "sha256": "0bd92aeea7fc8ffa375a272c166f1dbc918c78d3231fe5bf5ee948df30110521"
+  },
+  "hd/headlight-wedge.png": {
+   "bytes": 28910,
+   "sha256": "6b23e16e3e0cdc8273f10cabf8b180d1ebdb80338e5e2df68b1a47717cdc9682"
+  },
+  "hd/livery-gt.png": {
+   "bytes": 232074,
+   "sha256": "0209e86d3e4f4dbb17b7136e199d7e85d89ac31c110ba2e224931d83d5f3a9a6"
+  },
+  "hd/livery-hatch.png": {
+   "bytes": 264196,
+   "sha256": "32ad7ee09057f5adb4d289f182e8682df59dd994e4482bf91b9bfe37a12ebb35"
+  },
+  "hd/livery-muscle.png": {
+   "bytes": 128852,
+   "sha256": "78e0e6e67d27052dbe4445520a56c954e0c263bd32cdde0a7cdb80e0cfef56b0"
+  },
+  "hd/livery-wedge.png": {
+   "bytes": 214855,
+   "sha256": "4dbb27c83d2b4dd595f9fcae49f19a22e3363f233ed9834cae94705c15b938e8"
+  },
+  "hd/manifest.json": {
+   "bytes": 2669,
+   "sha256": "b6255a46530f24dbebde2b3bd47a5fefea3047ca9c5f80a3f7b51a01f426faf1"
+  },
+  "hd/rim-gt.png": {
+   "bytes": 371010,
+   "sha256": "8d07f265937d4c754ac79e7c4fb980a5229c31ca1062a46e3256ae69862b7e90"
+  },
+  "hd/rim-hatch.png": {
+   "bytes": 286880,
+   "sha256": "45073a0626e7184fb97b790b7c433082b7e4b0eb45e90d012d1968b3bfd6cf47"
+  },
+  "hd/rim-muscle.png": {
+   "bytes": 323325,
+   "sha256": "7a5759b325f61acddca656f45962fcac82aedbe235fb2264fa961f6aba6db68e"
+  },
+  "hd/rim-wedge.png": {
+   "bytes": 272424,
+   "sha256": "6cdcf6191f41efb59ae9c5cd81d5df3e4dda70b8c5bdff0cb11d7c7c89409d96"
+  },
+  "hd/taillight-gt.png": {
+   "bytes": 19340,
+   "sha256": "6f341eee832b1d4ee71b86d02ee1840de09d549613361ee809a7b4315a8e0e22"
+  },
+  "hd/taillight-hatch.png": {
+   "bytes": 20588,
+   "sha256": "1f9e09ddf6cfe8a9ead0ea9131f4d48b75d09112375eb6f32d6fa96d8002f000"
+  },
+  "hd/taillight-muscle.png": {
+   "bytes": 32280,
+   "sha256": "6dac573d9a38cbfdb8f8a7a734103934bdaec7f277976f3f4eb26743c9f0bf41"
+  },
+  "hd/taillight-wedge.png": {
+   "bytes": 30566,
+   "sha256": "971b9d276a24e175f47ca009c963315e55bdc09bdfbe758248ab100137abe313"
+  },
+  "index.html": {
+   "bytes": 5210,
+   "sha256": "786e49d91019236b3391d28a033a36a3b069a10e6679d9f5115c46e36e53db71"
+  }
+ }
+}

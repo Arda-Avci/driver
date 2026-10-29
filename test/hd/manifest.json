@@ -21,5 +21,27 @@
     "taillight-hatch.png",
     "grille-hatch.png",
     "livery-hatch.png"
-  ]
+  ],
+  "sha256": {
+    "rim-wedge.png": "6cdcf6191f41efb59ae9c5cd81d5df3e4dda70b8c5bdff0cb11d7c7c89409d96",
+    "headlight-wedge.png": "6b23e16e3e0cdc8273f10cabf8b180d1ebdb80338e5e2df68b1a47717cdc9682",
+    "taillight-wedge.png": "971b9d276a24e175f47ca009c963315e55bdc09bdfbe758248ab100137abe313",
+    "grille-wedge.png": "6d86543fd72fc9b2f4bf776715c4c3efb5fe8b167696dab37f19b5b0f8480d2a",
+    "livery-wedge.png": "4dbb27c83d2b4dd595f9fcae49f19a22e3363f233ed9834cae94705c15b938e8",
+    "rim-muscle.png": "7a5759b325f61acddca656f45962fcac82aedbe235fb2264fa961f6aba6db68e",
+    "headlight-muscle.png": "0bd92aeea7fc8ffa375a272c166f1dbc918c78d3231fe5bf5ee948df30110521",
+    "taillight-muscle.png": "6dac573d9a38cbfdb8f8a7a734103934bdaec7f277976f3f4eb26743c9f0bf41",
+    "grille-muscle.png": "c4ca706c0fef26423d6746d7c0d0af423ef59e6fd57503350be9829aa2ef0dfd",
+    "livery-muscle.png": "78e0e6e67d27052dbe4445520a56c954e0c263bd32cdde0a7cdb80e0cfef56b0",
+    "rim-gt.png": "8d07f265937d4c754ac79e7c4fb980a5229c31ca1062a46e3256ae69862b7e90",
+    "headlight-gt.png": "08a95018dbf717388dd92c85f98d135b5f50e7c70bbd65d01195c67d6a486176",
+    "taillight-gt.png": "6f341eee832b1d4ee71b86d02ee1840de09d549613361ee809a7b4315a8e0e22",
+    "grille-gt.png": "a112c403547093851cb31be76fd84b49f5e2bbe8cd5435470e33f9be7512e8ef",
+    "livery-gt.png": "0209e86d3e4f4dbb17b7136e199d7e85d89ac31c110ba2e224931d83d5f3a9a6",
+    "rim-hatch.png": "45073a0626e7184fb97b790b7c433082b7e4b0eb45e90d012d1968b3bfd6cf47",
+    "headlight-hatch.png": "b7fdae2374bbf723b934255da05d43ca103a0ffe5c82dc9033b4615aeb5d4f94",
+    "taillight-hatch.png": "1f9e09ddf6cfe8a9ead0ea9131f4d48b75d09112375eb6f32d6fa96d8002f000",
+    "grille-hatch.png": "acfc7b333037f07b6e7203ed85909f90a80365351f2f37a2d785275078a85252",
+    "livery-hatch.png": "32ad7ee09057f5adb4d289f182e8682df59dd994e4482bf91b9bfe37a12ebb35"
+  }
 }
