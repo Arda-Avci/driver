@@ -1,8 +1,8 @@
 {
  "note": "DRIVER (c) 2026 Arda AVCI. All rights reserved. The SHA-256 of every file of this published copy and the integrity chain: index.html loads the JS with SRI, the JS pins the manifests, the manifests list each picture's SHA-256. A copy that differs is not the original: https://arda-avci.github.io/driver/",
- "version": "5.0.3-test.3",
+ "version": "5.0.3-test.4",
  "channel": "test",
- "build": "bb62dd7",
+ "build": "833ec0f",
  "chain": {
   "pins": {
    "bike/manifest.json": "sha256-ajmcXlWW+932hgAmCwLov7dkiTNTboZYfH4lklovIKA=",
@@ -21,37 +21,37 @@
    "bytes": 11569,
    "sha256": "8e6e310695eb264da6fa8706244631f30aaa608de8fb41c5e4e52ad317bf2cc0"
   },
-  "assets/audio-90URcr5A.js": {
+  "assets/audio-D7x40o2A.js": {
    "bytes": 97910,
-   "sha256": "deb1f39e879a7a997da31e8eada49220a36572d68c8662fbbe0e28f4148a6a72"
+   "sha256": "b2edc899b4d720b6ab53467a5e82932329aa00cbc8e4b73b62b6d4f7bddcc071"
   },
-  "assets/bikeRider-Ch5eEgI8.js": {
+  "assets/bikeRider-B-67VKfp.js": {
    "bytes": 202346,
-   "sha256": "c16924c17c5d3a11afbc36ceb3b03d9bdcb250659d310b2fed12461680f2b078"
+   "sha256": "60255212f13090f7b5152b209fd6dd750f86cf610b7f0ca9028efd081e3f1054"
   },
-  "assets/engineLab-DfWzngXh.js": {
+  "assets/engineLab-DINSGrAo.js": {
    "bytes": 9692,
-   "sha256": "6a674c94e517d874eecc4a677e5607fc9c7d1e11f94f23aea46e02128ec3d59e"
+   "sha256": "f6172dce93c3fbc6fc9566f03505451796742656f4a34db74d24dd42f5cc335b"
   },
-  "assets/index-5QxB6jsG.js": {
+  "assets/index-DmLZutaM.js": {
    "bytes": 2959,
-   "sha256": "72ab15eca95b9cb62d8cf6ff9f433f8233f448b7ee7e2b81dde39e2a1e1f07ed"
+   "sha256": "d0702416ec55e09e61266a749b08ceaa4046c9c5e29e18b3a0b919c3931cb58e"
   },
-  "assets/main-ueQI356t.js": {
-   "bytes": 1055065,
-   "sha256": "ba030d675f59b045e30885c2d631c9267ed3d1fd9240fafd2f3923e5899ced78"
+  "assets/main-CS440jqQ.js": {
+   "bytes": 1055067,
+   "sha256": "c7551f71170a30ee4f4470b4cd35331fee73af97832ace44deea62c4888ac7b3"
   },
-  "assets/startGate-BFJASwVe.js": {
+  "assets/startGate-D1ZfooGg.js": {
    "bytes": 7965,
-   "sha256": "15acc5624f1fc64e7633b1c386a795fbcf17dc990013bccc59031bb149037837"
+   "sha256": "19ab6e8045761cb13bffeff91ce6c22cc5ced94157a44dd549e647b6d25fcfd9"
   },
   "assets/three.module-DbuLXPzh.js": {
    "bytes": 592425,
    "sha256": "eb17dd5ed5575304b6127b094dc86ce2c9b59fec20a8fc1631d73f2c7222f6c8"
   },
   "audio/m01.mp3": {
-   "bytes": 4977702,
-   "sha256": "df43c3a3bc4b2f423fbcf80aa474487feef6894b21e75bff3bb23d7ce04bea4e"
+   "bytes": 5128740,
+   "sha256": "18b43427a9f7d75c60d734acd77628d3200aa6f4c343ccd89ac34c667e2d2055"
   },
   "audio/m02.mp3": {
    "bytes": 5002411,
@@ -114,8 +114,8 @@
    "sha256": "02e963025e6dd6824d37c3ee5b21c77a8c0c918131b9896061e17e41ddb712be"
   },
   "audio/m17.mp3": {
-   "bytes": 1382368,
-   "sha256": "055e725ff386a7bb05b1a028007e036caae29ad8f0d89620c4dfca9b4c1be348"
+   "bytes": 1397726,
+   "sha256": "de6d537a81be5ad069b1f043aaf81bfa6972954f728b7a1de03146f7703faf20"
   },
   "audio/music.json": {
    "bytes": 1385,
@@ -455,7 +455,7 @@
   },
   "index.html": {
    "bytes": 5210,
-   "sha256": "3260b97a8c7c1486935d25f24fcde694105b3bba3fecfe12b8cf5ae417d68416"
+   "sha256": "8a039e4462ec73be57f3e321e4d75c29991f1c335eb8944613031a2e5d78e8aa"
   }
  }
 }
