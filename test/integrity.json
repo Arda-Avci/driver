@@ -1,53 +1,53 @@
 {
  "note": "DRIVER (c) 2026 Arda AVCI. All rights reserved. The SHA-256 of every file of this published copy and the integrity chain: index.html loads the JS with SRI, the JS pins the manifests, the manifests list each picture's SHA-256. A copy that differs is not the original: https://arda-avci.github.io/driver/",
- "version": "5.0.3-test.4",
+ "version": "5.0.3-test.5",
  "channel": "test",
- "build": "833ec0f",
+ "build": "0474be1",
  "chain": {
   "pins": {
    "bike/manifest.json": "sha256-ajmcXlWW+932hgAmCwLov7dkiTNTboZYfH4lklovIKA=",
    "cards/manifest.json": "sha256-B66dvfuJCRCRtzD1oNyocd/1JaD15JsnlZ7qE8cRajo=",
    "car/manifest.json": "sha256-+b671UvspNZAQAd0lAP8TTTrLIkvBNehadEb9xKXSJA=",
    "hd/manifest.json": "sha256-4CyQjIas64LRsaLMF95w3WMxZbPfsXq8C2lOyepcqtg=",
-   "audio/music.json": "sha256-Gix+GbV+pp1SR6qGIahBJX6nROMMlPWk5HI598WyuP8="
+   "audio/music.json": "sha256-bsW094bPA7ClbCo9uTY2ThcIj7uuTCWrQsRymPePnIM="
   }
  },
  "files": {
-  "assets/OutputPass-CkAKjyIT.js": {
+  "assets/OutputPass-YlMixym0.js": {
    "bytes": 19008,
-   "sha256": "c6385acd679c347731344198983467f0af061b7c3b8077e903763364bade5842"
+   "sha256": "36e77a18de1c37e60e2d36eef10570cf6897d62d6528042b53d51423e23759b6"
   },
-  "assets/aaGames-CIulNHMa.js": {
+  "assets/aaGames-B9lU4sR3.js": {
    "bytes": 11569,
-   "sha256": "8e6e310695eb264da6fa8706244631f30aaa608de8fb41c5e4e52ad317bf2cc0"
+   "sha256": "c7bff28ed32c41e417754f6efdc0552708327aa6718e23098bc2755c1c496b2f"
   },
-  "assets/audio-D7x40o2A.js": {
-   "bytes": 97910,
-   "sha256": "b2edc899b4d720b6ab53467a5e82932329aa00cbc8e4b73b62b6d4f7bddcc071"
+  "assets/audio-DKGtMMvu.js": {
+   "bytes": 98581,
+   "sha256": "7f88d3cbb3e38b58af71524d5b87ce2925d42ca55d123c37099b143d874e9cba"
   },
-  "assets/bikeRider-B-67VKfp.js": {
+  "assets/bikeRider-CmBVNhj3.js": {
    "bytes": 202346,
-   "sha256": "60255212f13090f7b5152b209fd6dd750f86cf610b7f0ca9028efd081e3f1054"
+   "sha256": "5fdda54cd23065076d026e6391bb2c4e359bffe8a1fc0cbfb7f712255fc5796b"
   },
-  "assets/engineLab-DINSGrAo.js": {
+  "assets/engineLab-CyCoBtRx.js": {
    "bytes": 9692,
-   "sha256": "f6172dce93c3fbc6fc9566f03505451796742656f4a34db74d24dd42f5cc335b"
+   "sha256": "a7a2dee813ff391de524f92a7fd71b6bf8cf687ed40857dd8295390ac7843d63"
   },
-  "assets/index-DmLZutaM.js": {
+  "assets/index-DB2khC70.js": {
    "bytes": 2959,
-   "sha256": "d0702416ec55e09e61266a749b08ceaa4046c9c5e29e18b3a0b919c3931cb58e"
+   "sha256": "61d108224be64dc5e7a39a985b622e3809ff83d58d1ec011018ff11e1a31731f"
   },
-  "assets/main-CS440jqQ.js": {
-   "bytes": 1055067,
-   "sha256": "c7551f71170a30ee4f4470b4cd35331fee73af97832ace44deea62c4888ac7b3"
+  "assets/main-CLpUoBPQ.js": {
+   "bytes": 1078750,
+   "sha256": "61802699a6b383c1e77883dc3d4b680d6367274bdb43c4cf60cb481b128f1737"
   },
-  "assets/startGate-D1ZfooGg.js": {
+  "assets/startGate-BE9HGNJu.js": {
    "bytes": 7965,
-   "sha256": "19ab6e8045761cb13bffeff91ce6c22cc5ced94157a44dd549e647b6d25fcfd9"
+   "sha256": "e0c0dc1229b3578a5692cf42bb80624aad19455c2f5e8c8e1be339383b49b41e"
   },
-  "assets/three.module-DbuLXPzh.js": {
+  "assets/three.module-BHWclEOO.js": {
    "bytes": 592425,
-   "sha256": "eb17dd5ed5575304b6127b094dc86ce2c9b59fec20a8fc1631d73f2c7222f6c8"
+   "sha256": "ab54d254432dd0d4ccbe5e868e88cc1421d01a50e1cfeb8a7ed1aaa61f6cfa52"
   },
   "audio/m01.mp3": {
    "bytes": 5128740,
@@ -118,8 +118,8 @@
    "sha256": "de6d537a81be5ad069b1f043aaf81bfa6972954f728b7a1de03146f7703faf20"
   },
   "audio/music.json": {
-   "bytes": 1385,
-   "sha256": "1a2c7e19b57ea69d5247aa8621a841257ea744e30c94f5a4e47239f7c5b2b8ff"
+   "bytes": 1475,
+   "sha256": "6ec5b4f786cf03b0a56c2a3db936364e17088fbbae4c25ab42c47298f78f9c83"
   },
   "bike/helmet-1.png": {
    "bytes": 98119,
@@ -455,7 +455,7 @@
   },
   "index.html": {
    "bytes": 5210,
-   "sha256": "8a039e4462ec73be57f3e321e4d75c29991f1c335eb8944613031a2e5d78e8aa"
+   "sha256": "ca2200e6ffe0dea77b47968610c3ffd3915be16accd692df3318ecce24afd452"
   }
  }
 }
