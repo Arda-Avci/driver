@@ -1,8 +1,8 @@
 {
  "note": "DRIVER (c) 2026 Arda AVCI. All rights reserved. The SHA-256 of every file of this published copy and the integrity chain: index.html loads the JS with SRI, the JS pins the manifests, the manifests list each picture's SHA-256. A copy that differs is not the original: https://arda-avci.github.io/driver/",
- "version": "5.0.3-test.12",
+ "version": "5.0.3-test.13",
  "channel": "test",
- "build": "8d2bbfd",
+ "build": "245a6f9",
  "chain": {
   "pins": {
    "bike/manifest.json": "sha256-ajmcXlWW+932hgAmCwLov7dkiTNTboZYfH4lklovIKA=",
@@ -13,41 +13,41 @@
   }
  },
  "files": {
-  "assets/OutputPass-_skAfr_X.js": {
+  "assets/OutputPass-DMV9Nw2l.js": {
    "bytes": 19008,
-   "sha256": "0e28fcb0b99859fdcca5300e04a36bb260eb9a6694ff61692ee8e70e5322b656"
+   "sha256": "cc124ece133d39b0ac8c837e5ae5b166f7715908cb08f2618d177f2c48c644ff"
   },
-  "assets/aaGames-pvw866_7.js": {
+  "assets/aaGames-w_iwSObc.js": {
    "bytes": 11569,
-   "sha256": "cefd56765e9413285b7397fe925fcab81e027c5c4248af9549b4b3264de7cbee"
+   "sha256": "78f3c0a1edf7424655b46e3c447bdac7814f4b36a3b2e70bd743aeb6cc118218"
   },
-  "assets/audio-DS6ZDz7T.js": {
+  "assets/audio-B_xwm4K9.js": {
    "bytes": 98731,
-   "sha256": "bdc351dab3168d320b6212277fdad8304de57086b43f369dc093ec679b14fb8c"
+   "sha256": "ebd1d3eaa7442c52571d7315ff98dfd5d5cb522d170a33f988b5adb5248ba1a3"
   },
-  "assets/bikeRider-CYJuA4es.js": {
+  "assets/bikeRider-fSEfO4Yn.js": {
    "bytes": 202468,
-   "sha256": "c47f7273d160041160652ff4bb526c43bed1b87df9adc3e10bfd707ef2cc4e86"
+   "sha256": "b989612203a6c53caa169e580b3ad53607c0eb339bfa360c3dd62842b8403f72"
   },
-  "assets/engineLab-V2D1LEW_.js": {
+  "assets/engineLab-CFBR1eV0.js": {
    "bytes": 9692,
-   "sha256": "d813904ef3c1e0bf538403cc65ddd34c478dc15dbe2bff1e4c266de87c6cadae"
+   "sha256": "ea13b35bfd6c690f22fbf80c816a690cc248cb96b330c554d99759d279114192"
   },
-  "assets/index-B2VRzHDh.js": {
+  "assets/index-vQrMCkGw.js": {
    "bytes": 2959,
-   "sha256": "4432244491fa8ba401fb86bcf1f50a90eaec6d51091ebb7882fb0830d98d0396"
+   "sha256": "b1545843f505b0a0feada2b24c82b8aae46fa81905d335a9fe1c65824dd8fb80"
   },
-  "assets/main-CuXHhTKr.js": {
-   "bytes": 1124448,
-   "sha256": "4cfaf71bdab5e1fee40ad140c4b5f03ce3187dabf6f688fb993beec68110ab43"
+  "assets/main-BEjp23-K.js": {
+   "bytes": 1131015,
+   "sha256": "6db1bfbc088efac8e2c60a0ff171ada122600abed8edff29ff86b388bf778cbd"
   },
-  "assets/startGate-DdfhJKZX.js": {
+  "assets/startGate--R-lnd9h.js": {
    "bytes": 7965,
-   "sha256": "ce4c7e93e6ebd341a818961099eb72a259dd99b331e8ff1c37a0fe2578896753"
+   "sha256": "2ebc99429b239b9a4fefac7f543484e58c4b85bd17461da4ac17ce46753cdf06"
   },
-  "assets/three.module-S3gxVXMJ.js": {
-   "bytes": 592425,
-   "sha256": "1434e9d8a9cb5c84cacf09002571c86dc4a57a489a16a7021b7690593f78e738"
+  "assets/three.module-B64kgNs9.js": {
+   "bytes": 593651,
+   "sha256": "6cb7d576d2ebd074dfa2668afae4580cb95e256c3c1a217f1731d64f7dc589bb"
   },
   "audio/m01.mp3": {
    "bytes": 5128740,
@@ -455,7 +455,7 @@
   },
   "index.html": {
    "bytes": 5210,
-   "sha256": "8073b0d7bf787c84d4e59e223eabf75cce2e929c8bbc7756c06ce4975912d305"
+   "sha256": "8a5fca8ef2d3e89168eb9ce677945d038e86f4b0dde6c7da528aa58ae6dfc0d4"
   }
  }
 }
