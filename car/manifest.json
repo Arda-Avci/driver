@@ -1,36 +1,36 @@
 {
- "note": "Car card pictures (owner exception to the procedural-only rule); files are used as delivered, byte for byte. Race Red; other paints are recoloured in the browser (src/game/carTint.ts).",
+ "note": "Car card pictures (owner exception to the procedural-only rule); files are the delivered pictures with an invisible per-release watermark (owner's rule change 2026-10-29, copy protection package C; scripts/protect/watermark.mjs); the as-delivered originals' sha256 and pHash are kept as provenance in the private source repo. Race Red; other paints are recoloured in the browser (src/game/carTint.ts).",
  "files": [
   {
    "file": "hero-wedge.png",
    "width": 1024,
    "height": 576,
-   "bytes": 359013,
-   "sha256": "eaf9f49b99e58dfe4851dbc7fd984a36f4199938d4006efd1ecb1f11ef933cdd",
+   "bytes": 362041,
+   "sha256": "ae6f0f17bddf777fb6dc8092f1d86dd9c01dd438389fd76b5fdec1ff95e3cde1",
    "use": "vehicle list card (not loaded in a race)"
   },
   {
    "file": "hero-hatch.png",
    "width": 1024,
    "height": 576,
-   "bytes": 460288,
-   "sha256": "791d3a0fb8bba53fdf7fc689182976484a5cbefc8f59ab43ea6d14f8547f1567",
+   "bytes": 459955,
+   "sha256": "30f9832cadd8068e32978c89000a2472c4a2101ded4cfc0e51412e134f22aa4d",
    "use": "vehicle list card (not loaded in a race)"
   },
   {
    "file": "hero-muscle.png",
    "width": 1024,
    "height": 576,
-   "bytes": 444640,
-   "sha256": "6864fc800381af811ad684d1407e3130463eefa92196ce64dd6ff36cb9bb6c6d",
+   "bytes": 449056,
+   "sha256": "cbbba0b05985e92c745c6c577b8f9102c806c811ec7c5dd2f23a9ce41d40dc81",
    "use": "vehicle list card (not loaded in a race)"
   },
   {
    "file": "hero-gt.png",
    "width": 1024,
    "height": 576,
-   "bytes": 446880,
-   "sha256": "6f8dc1aa21be4aba0e309915b7fa0ab4e13150f818742429aec5d9fb011a6f32",
+   "bytes": 451256,
+   "sha256": "84c0b936330b84472db08ffa47c48bd1afac0efd5af3daa970b372a521b7446c",
    "use": "vehicle list card (not loaded in a race)"
   }
  ]
