@@ -1,8 +1,8 @@
 {
  "note": "DRIVER (c) 2026 Arda AVCI. All rights reserved. The SHA-256 of every file of this published copy and the integrity chain: index.html loads the JS with SRI, the JS pins the manifests, the manifests list each picture's SHA-256. A copy that differs is not the original: https://arda-avci.github.io/driver/",
- "version": "5.0.3-test.6",
+ "version": "5.0.3-test.7",
  "channel": "test",
- "build": "935a005",
+ "build": "9043230",
  "chain": {
   "pins": {
    "bike/manifest.json": "sha256-ajmcXlWW+932hgAmCwLov7dkiTNTboZYfH4lklovIKA=",
@@ -21,29 +21,29 @@
    "bytes": 11569,
    "sha256": "c7bff28ed32c41e417754f6efdc0552708327aa6718e23098bc2755c1c496b2f"
   },
-  "assets/audio-DrAuaekC.js": {
+  "assets/audio-BdXHJvoW.js": {
    "bytes": 98583,
-   "sha256": "ef361b0ec76f2ffd04b9fd10fb16a077e2de2376c0e21debdd1c61c7d4f34c65"
+   "sha256": "3141625e0c779c3089316eeebe2ecd65a29d3d2260500854cedc0dcff450bda1"
   },
-  "assets/bikeRider-B-cyD9ay.js": {
+  "assets/bikeRider-qPu3wPcx.js": {
    "bytes": 202346,
-   "sha256": "fd58d3fe8706f3042816e70e3dd0a995d686e257a466a36f99739153d884ab28"
+   "sha256": "f4187eeec93340b518eace0ae23821323409da613900e69f357e7c34e38289b0"
   },
-  "assets/engineLab-DYp_8qUR.js": {
+  "assets/engineLab-CUzYENJZ.js": {
    "bytes": 9692,
-   "sha256": "a9f384e0af87f2e0bfd875dd6c3d8f02f77c3c40e74b63eedd93a268fb798206"
+   "sha256": "4c490c62530a981f3bab2650750c41757c20e6707c25c449e8d1bc010190a0e8"
   },
-  "assets/index-CM3th2I8.js": {
+  "assets/index-CpzuPoR5.js": {
    "bytes": 2959,
-   "sha256": "86d358b46c5bb522390e62af7144f1f445c4842886c8287a4e48b6409593a931"
+   "sha256": "be4b90c0314bb32e196a9ffa1886e0a3349a644089a8b19d042888b8135df8e7"
   },
-  "assets/main-Q92npwoK.js": {
-   "bytes": 1079812,
-   "sha256": "f4d63926ee9efc8bea29b5be356eda706cbaf68a106f791c92999e0c032d1449"
+  "assets/main-hnj0o_Y2.js": {
+   "bytes": 1080270,
+   "sha256": "0251101c859fa644a86acb7a4e082caa5762683d7b64bb61b8b6c79675d46d62"
   },
-  "assets/startGate-Op85dXIm.js": {
+  "assets/startGate-Ck8IMp-2.js": {
    "bytes": 7965,
-   "sha256": "a575c712c0d7885b14c48614d2dfad5136c87bbf620e6c9b6f6e99f1bbae4f6e"
+   "sha256": "a76fb767bbb7330695956c0c259585afab5ce5dd0f98055d5672726819bd411c"
   },
   "assets/three.module-BHWclEOO.js": {
    "bytes": 592425,
@@ -455,7 +455,7 @@
   },
   "index.html": {
    "bytes": 5210,
-   "sha256": "0c61edf4c2cba04abc447111813a0a92169f904b888435fdb5483088ab000193"
+   "sha256": "ba0e531fb6022d844350b47297f052c713e557061a6c53395d14afeeef9a3080"
   }
  }
 }
