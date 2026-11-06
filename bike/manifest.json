@@ -77,64 +77,64 @@
    "file": "hero-1000.png",
    "width": 1024,
    "height": 576,
-   "bytes": 449026,
-   "sha256": "d2eca8ea6e1ad1f3e1d9cc1ebbdd272264d2dd985a549cff0e91af6429dc4138",
+   "bytes": 449043,
+   "sha256": "3b8d1b6a8d1f46f541a8bce132b7502a2a1d0549523fef47b77b5250e5ec02d8",
    "use": "vehicle list card (not loaded in a race)"
   },
   {
    "file": "hero-125.png",
    "width": 1024,
    "height": 576,
-   "bytes": 411448,
-   "sha256": "28b03c9d93e7b78eddc2283e70c18242ca59a8e6b4b0f8d15a5c133467112d14",
+   "bytes": 411465,
+   "sha256": "2f4f68d0d158736db572cd6f9ea4a9c900e995e0b5eb3492007f5b526598298f",
    "use": "vehicle list card (not loaded in a race)"
   },
   {
    "file": "hero-250.png",
    "width": 1024,
    "height": 576,
-   "bytes": 461438,
-   "sha256": "51e6ecf1d1bc5b4f7556cf52ac8a10487144a5eac1776cdbab0875898a6dae0a",
+   "bytes": 461455,
+   "sha256": "f44ef5454c8a2ef6e3be22f51ae44e4d8e59d93f4c89b28c40f8997bfb7440a0",
    "use": "vehicle list card (not loaded in a race)"
   },
   {
    "file": "hero-300.png",
    "width": 1024,
    "height": 576,
-   "bytes": 449081,
-   "sha256": "1217011fd02dfe84c3eec90a27f446af215816c55d883b674097cebcf1bef224",
+   "bytes": 449098,
+   "sha256": "7a3bd72ee8d7cb5ab23d500f5c3b114d1a2a7ff3f13b2317f42412cfd84d2128",
    "use": "vehicle list card (not loaded in a race)"
   },
   {
    "file": "hero-600.png",
    "width": 1024,
    "height": 576,
-   "bytes": 486952,
-   "sha256": "c9be96f4e492294100ce17908012183746aa8a834f3907a73d6119baf851cd10",
+   "bytes": 486969,
+   "sha256": "b1e018483424f249ab3fb6d30207f4494b0221f56527fee5e3bd143a3d94bfc1",
    "use": "vehicle list card (not loaded in a race)"
   },
   {
    "file": "hero-900.png",
    "width": 1024,
    "height": 576,
-   "bytes": 445278,
-   "sha256": "739ad717da6877156db0098375024f4ba2e69acef92bce2fc820cbb18564ce98",
+   "bytes": 445295,
+   "sha256": "d041544174c2afde3b16fb5e6620a5f1285dd63970a60b6b3c92bac9560784a4",
    "use": "vehicle list card (not loaded in a race)"
   },
   {
    "file": "hero-1400.png",
    "width": 1024,
    "height": 576,
-   "bytes": 459436,
-   "sha256": "aeb54cc0898b2be9f74f2f98bfdf85b51423c9b6ae127b39af2624dee7b557cd",
+   "bytes": 459453,
+   "sha256": "4e04710aade0fca1aeb0f459a3e2de9fff4f53641918827cdd3339af4ff95733",
    "use": "vehicle list card (not loaded in a race)"
   },
   {
    "file": "hero-1000sc.png",
    "width": 1024,
    "height": 576,
-   "bytes": 453033,
-   "sha256": "b14ec83cb58b8be2215e02ad953dc28fe781798c183d2a916fa2d939a988cb60",
+   "bytes": 453050,
+   "sha256": "b7ad377f55adb53886ac4c54c9c5a88739b6136a56c45872fd86a184fb9bf6c5",
    "use": "vehicle list card (not loaded in a race)"
   },
   {

@@ -5,32 +5,32 @@
    "file": "hero-wedge.png",
    "width": 1024,
    "height": 576,
-   "bytes": 362041,
-   "sha256": "ae6f0f17bddf777fb6dc8092f1d86dd9c01dd438389fd76b5fdec1ff95e3cde1",
+   "bytes": 362058,
+   "sha256": "632a7d22eafb60ed65e640543189be9dab9f2135b4d74fa73108c7608dd11a85",
    "use": "vehicle list card (not loaded in a race)"
   },
   {
    "file": "hero-hatch.png",
    "width": 1024,
    "height": 576,
-   "bytes": 459955,
-   "sha256": "30f9832cadd8068e32978c89000a2472c4a2101ded4cfc0e51412e134f22aa4d",
+   "bytes": 459972,
+   "sha256": "87cc992b2dd22d1f27421a5375bb7c4b8b9ab61fcde7092c044fcb91a703c35d",
    "use": "vehicle list card (not loaded in a race)"
   },
   {
    "file": "hero-muscle.png",
    "width": 1024,
    "height": 576,
-   "bytes": 449056,
-   "sha256": "cbbba0b05985e92c745c6c577b8f9102c806c811ec7c5dd2f23a9ce41d40dc81",
+   "bytes": 449073,
+   "sha256": "d04c784b320960f8e82277c8a3cb96205c07bc965c5489b0aafcaebbc6139152",
    "use": "vehicle list card (not loaded in a race)"
   },
   {
    "file": "hero-gt.png",
    "width": 1024,
    "height": 576,
-   "bytes": 451256,
-   "sha256": "84c0b936330b84472db08ffa47c48bd1afac0efd5af3daa970b372a521b7446c",
+   "bytes": 451273,
+   "sha256": "6aa9dc45598389ba3f4c1bd4854863dce73a4f781c89d11d6113fda585bdf1e6",
    "use": "vehicle list card (not loaded in a race)"
   }
  ]
