@@ -1,13 +1,13 @@
 {
  "note": "DRIVER (c) 2026 Arda AVCI. All rights reserved. The SHA-256 of every file of this published copy and the integrity chain: index.html loads the JS with SRI, the JS pins the manifests, the manifests list each picture's SHA-256. A copy that differs is not the original: https://arda-avci.github.io/driver/",
- "version": "5.0.9-test.3",
+ "version": "5.0.9-test.4",
  "channel": "test",
- "build": "3058877",
+ "build": "144051b",
  "chain": {
   "pins": {
-   "bike/manifest.json": "sha256-ajmcXlWW+932hgAmCwLov7dkiTNTboZYfH4lklovIKA=",
-   "cards/manifest.json": "sha256-B66dvfuJCRCRtzD1oNyocd/1JaD15JsnlZ7qE8cRajo=",
-   "car/manifest.json": "sha256-+b671UvspNZAQAd0lAP8TTTrLIkvBNehadEb9xKXSJA=",
+   "bike/manifest.json": "sha256-e4QexDbhmDGYFvfXNbkXih9K4UKv9hL+gBM3Dna50Q4=",
+   "cards/manifest.json": "sha256-APsj/bPOTsEIXlvCHmII5xxWCnGIp3qCaAbubdx0mXk=",
+   "car/manifest.json": "sha256-xDF3fSq9+2Y9m5fn7WFTNLz+Pg4QS02EnGUV1qlDvmE=",
    "hd/manifest.json": "sha256-4CyQjIas64LRsaLMF95w3WMxZbPfsXq8C2lOyepcqtg=",
    "audio/music.json": "sha256-bsW094bPA7ClbCo9uTY2ThcIj7uuTCWrQsRymPePnIM="
   }
@@ -21,29 +21,29 @@
    "bytes": 11569,
    "sha256": "5c38039f20e08d1164b8a15bcc8c02fc99183296606156010939bfe91bed939e"
   },
-  "assets/audio-CMYvKcQB.js": {
-   "bytes": 99229,
-   "sha256": "88476de3ea9c180f56f273c7dabc8633d7a02da6076a05009b56ba8e35a9d602"
+  "assets/audio-CM065msK.js": {
+   "bytes": 100474,
+   "sha256": "70c965214b377912ecd041063127a513980abbde30962847c9e256703a8408ba"
   },
-  "assets/bikeRider-DO59CiT1.js": {
+  "assets/bikeRider-dN5X6Ee6.js": {
    "bytes": 208592,
-   "sha256": "be3e84c960749dc258cfe35b589b5537e497c2e7148fd502a47b2e0977c6c2a2"
+   "sha256": "895630ed3b65c596a71d1d9dbc9a946a28880e3fc6899fdb3141b72a8b21086c"
   },
-  "assets/engineLab-BGJNQFzD.js": {
+  "assets/engineLab-BLyCzYzW.js": {
    "bytes": 9692,
-   "sha256": "d7b2463e73039984edde6891fb040dad3abb54aabd387f380e5ac6be79359e07"
+   "sha256": "595158198a5b0f45db6eaa62726a2cae05e35257dc06afa2b24bfb838284a14a"
   },
-  "assets/index-0eSJeH8H.js": {
+  "assets/index-Cg1_9DkO.js": {
    "bytes": 2959,
-   "sha256": "1ffd51dd43f381e1117247ef2c6eb03fa9cb5d8a5a4fd871f1fcd38a48aea8eb"
+   "sha256": "f0a0f58d3879eeac4af39033d73d9010c52e0804693799d2296f5aa04dd9ad98"
   },
-  "assets/main-BOVDQsdy.js": {
-   "bytes": 1135726,
-   "sha256": "cf9b71e95cf4de04fb9576ef125feeb9f4e3fa7fed8e44b7b88c4bc6bcfc006b"
+  "assets/main-CFDPw7rd.js": {
+   "bytes": 1137663,
+   "sha256": "79d677476245f6913fb2a5fddee9cdfc35a3b66802c1108bfb7ff1cd886a7be5"
   },
-  "assets/startGate-BYBP6k9A.js": {
+  "assets/startGate-DGFkDwF9.js": {
    "bytes": 7960,
-   "sha256": "26e8fba4a7e27c7b5fc65af32ff0e6d1cb209a4afc2c2f516526f4fc6c86ebe1"
+   "sha256": "05336044c4875371f3bb79c9a6e87aa687661c3351913274d3256fd565f322ba"
   },
   "assets/three.module-ZekB9w9h.js": {
    "bytes": 592491,
@@ -158,36 +158,36 @@
    "sha256": "9f18e1a56b3b59ff0b2813a6651c9f1e7066985f58a91528b9860edcfc990f9d"
   },
   "bike/hero-1000.png": {
-   "bytes": 449026,
-   "sha256": "d2eca8ea6e1ad1f3e1d9cc1ebbdd272264d2dd985a549cff0e91af6429dc4138"
+   "bytes": 449043,
+   "sha256": "3b8d1b6a8d1f46f541a8bce132b7502a2a1d0549523fef47b77b5250e5ec02d8"
   },
   "bike/hero-1000sc.png": {
-   "bytes": 453033,
-   "sha256": "b14ec83cb58b8be2215e02ad953dc28fe781798c183d2a916fa2d939a988cb60"
+   "bytes": 453050,
+   "sha256": "b7ad377f55adb53886ac4c54c9c5a88739b6136a56c45872fd86a184fb9bf6c5"
   },
   "bike/hero-125.png": {
-   "bytes": 411448,
-   "sha256": "28b03c9d93e7b78eddc2283e70c18242ca59a8e6b4b0f8d15a5c133467112d14"
+   "bytes": 411465,
+   "sha256": "2f4f68d0d158736db572cd6f9ea4a9c900e995e0b5eb3492007f5b526598298f"
   },
   "bike/hero-1400.png": {
-   "bytes": 459436,
-   "sha256": "aeb54cc0898b2be9f74f2f98bfdf85b51423c9b6ae127b39af2624dee7b557cd"
+   "bytes": 459453,
+   "sha256": "4e04710aade0fca1aeb0f459a3e2de9fff4f53641918827cdd3339af4ff95733"
   },
   "bike/hero-250.png": {
-   "bytes": 461438,
-   "sha256": "51e6ecf1d1bc5b4f7556cf52ac8a10487144a5eac1776cdbab0875898a6dae0a"
+   "bytes": 461455,
+   "sha256": "f44ef5454c8a2ef6e3be22f51ae44e4d8e59d93f4c89b28c40f8997bfb7440a0"
   },
   "bike/hero-300.png": {
-   "bytes": 449081,
-   "sha256": "1217011fd02dfe84c3eec90a27f446af215816c55d883b674097cebcf1bef224"
+   "bytes": 449098,
+   "sha256": "7a3bd72ee8d7cb5ab23d500f5c3b114d1a2a7ff3f13b2317f42412cfd84d2128"
   },
   "bike/hero-600.png": {
-   "bytes": 486952,
-   "sha256": "c9be96f4e492294100ce17908012183746aa8a834f3907a73d6119baf851cd10"
+   "bytes": 486969,
+   "sha256": "b1e018483424f249ab3fb6d30207f4494b0221f56527fee5e3bd143a3d94bfc1"
   },
   "bike/hero-900.png": {
-   "bytes": 445278,
-   "sha256": "739ad717da6877156db0098375024f4ba2e69acef92bce2fc820cbb18564ce98"
+   "bytes": 445295,
+   "sha256": "d041544174c2afde3b16fb5e6620a5f1285dd63970a60b6b3c92bac9560784a4"
   },
   "bike/livery-1000.png": {
    "bytes": 246517,
@@ -211,7 +211,7 @@
   },
   "bike/manifest.json": {
    "bytes": 7058,
-   "sha256": "6a399c5e5596fbddf68600260b02e8bfb7648933536e86587c7e25925a2f20a0"
+   "sha256": "7b841ec436e198319816f7d735b9178a1f4ae142aff612fe8013370e76b9d10e"
   },
   "bike/rim-1000.png": {
    "bytes": 301712,
@@ -250,124 +250,124 @@
    "sha256": "517b2c9982b8e4630fb30abdb918522c2024655987c3d8b69fa694d3dd394f39"
   },
   "car/hero-gt.png": {
-   "bytes": 451256,
-   "sha256": "84c0b936330b84472db08ffa47c48bd1afac0efd5af3daa970b372a521b7446c"
+   "bytes": 451273,
+   "sha256": "6aa9dc45598389ba3f4c1bd4854863dce73a4f781c89d11d6113fda585bdf1e6"
   },
   "car/hero-hatch.png": {
-   "bytes": 459955,
-   "sha256": "30f9832cadd8068e32978c89000a2472c4a2101ded4cfc0e51412e134f22aa4d"
+   "bytes": 459972,
+   "sha256": "87cc992b2dd22d1f27421a5375bb7c4b8b9ab61fcde7092c044fcb91a703c35d"
   },
   "car/hero-muscle.png": {
-   "bytes": 449056,
-   "sha256": "cbbba0b05985e92c745c6c577b8f9102c806c811ec7c5dd2f23a9ce41d40dc81"
+   "bytes": 449073,
+   "sha256": "d04c784b320960f8e82277c8a3cb96205c07bc965c5489b0aafcaebbc6139152"
   },
   "car/hero-wedge.png": {
-   "bytes": 362041,
-   "sha256": "ae6f0f17bddf777fb6dc8092f1d86dd9c01dd438389fd76b5fdec1ff95e3cde1"
+   "bytes": 362058,
+   "sha256": "632a7d22eafb60ed65e640543189be9dab9f2135b4d74fa73108c7608dd11a85"
   },
   "car/manifest.json": {
    "bytes": 1342,
-   "sha256": "f9bebbd54beca4d6404007749403fc4d34eb2c892f04d7a169d11bf712974890"
+   "sha256": "c431777d2abdfb663d9b97e7ed615334bcfe3e0e104b4d849c6515d6a943be61"
   },
   "cards/air.png": {
-   "bytes": 730819,
-   "sha256": "6bf8bd9eb930636eecbed7dc3e736a60892426810e46f3ffbb5005fec001df74"
+   "bytes": 730836,
+   "sha256": "6f1069825d8f87dc2e9c3c5ada16fede47c24b2ad17d2578a108d6a274ed789a"
   },
   "cards/bike1000.png": {
-   "bytes": 701761,
-   "sha256": "a16241fc8329c12fe0a8a0e15f823c23d2f01d262e040be432e42afc6529d837"
+   "bytes": 701778,
+   "sha256": "fdf86f9fee571de6c5d27c107248352c753efe837231347788fad10f3068abd3"
   },
   "cards/bike1000sc.png": {
-   "bytes": 692332,
-   "sha256": "76a56fc3c34ddb322252f2f4cf4c83a650ecb8ceef0633849c3f709b6dd4bc22"
+   "bytes": 692349,
+   "sha256": "506fe3c4adda7d358faa207de4884fae30082cc9637cc5d2749fdce0f77ead1d"
   },
   "cards/bike1400.png": {
-   "bytes": 678013,
-   "sha256": "0ed4e85b19fdfc3ed587dc39bb668e68dfdd6c8db34ed97dd5f73a6d5932895c"
+   "bytes": 678030,
+   "sha256": "90596e4e5e5b3e192500f0f57e7f04aecf1eed5ee7595ffa94f2a7c37b031f28"
   },
   "cards/bike900.png": {
-   "bytes": 691102,
-   "sha256": "e3fd9acff1e9f6258e2ca99a93e50c6c451a98a1f126f8c945869c792ec8085f"
+   "bytes": 691119,
+   "sha256": "a4a92066dee0e36708b7edec80bc7b196f800707587c85a5835ebf4dcb6752ed"
   },
   "cards/bikeRival.png": {
-   "bytes": 726935,
-   "sha256": "620419e723107f51023ea9355d74a1bd5383952ba5817f3220039ea1b824a34c"
+   "bytes": 726952,
+   "sha256": "7407b14409c7b466cb80bd4d05030762561058616444eb87cb51c27f6b482199"
   },
   "cards/bikes.png": {
-   "bytes": 735855,
-   "sha256": "7a4c8be8660f3f5245455dd23203eaf42d9156026cb27d805b513516f9a4ee87"
+   "bytes": 735872,
+   "sha256": "42f2c63b01890f021e20fe7a14ecbee7d039ea7d3c6eeb1e8101339c48ed3b9a"
   },
   "cards/city.png": {
-   "bytes": 686896,
-   "sha256": "c728f41a37db14bcdfa1fb5299cd1bc3d01f716d818f5759425eeb13cd9d8660"
+   "bytes": 686913,
+   "sha256": "651fd554ea0ed510863ad69116ce8a1d0e2b25bf9cba41993f81d389a1bebab9"
   },
   "cards/gt.png": {
-   "bytes": 722600,
-   "sha256": "8e30d75193733361ec966a6686a1bb9d4a7cd2149e2b127a5e9b8c73d87e68cd"
+   "bytes": 722617,
+   "sha256": "22e26973e1e074c3ef191fe575ac926e685555189f62a67b70d64a440e600cce"
   },
   "cards/helicopter.png": {
-   "bytes": 692860,
-   "sha256": "be82179a162cb67863df0dd21b156f56673e6065c9ced48c6c54934f4237296d"
+   "bytes": 692877,
+   "sha256": "5f3f0ac13310b39d00fbe3b3c9cc522910fe79c71999b18c4d38d4b030f0d2f7"
   },
   "cards/manifest.json": {
    "bytes": 5359,
-   "sha256": "07ae9dbdfb89091091b730f5a0dca871dff525a0f5e49b27959eea13c7116a3a"
+   "sha256": "00fb23fdb3ce4ec1085e5bc21e6208e71c560a7188a77a826806ee6ddc749979"
   },
   "cards/muscle.png": {
-   "bytes": 682032,
-   "sha256": "34d92cd414a847e5c1aa74f1ab4fb019353025f0c909486eac83592294c054c4"
+   "bytes": 682049,
+   "sha256": "e283736ab971d259c198284a940b0cda7522aa07534e020c6660f961d72304ad"
   },
   "cards/night.png": {
-   "bytes": 717539,
-   "sha256": "bc54a69e84fa9f0f918029898ba7b55458956db292f8d6c0651130bed598382a"
+   "bytes": 717556,
+   "sha256": "478993531f9f4ecbc2c876584a29ef2d7c328284465bb3ee1596ea805eedc9ec"
   },
   "cards/nitro.png": {
-   "bytes": 758954,
-   "sha256": "266e6bed150025b69f8a5f3849e181ff78835e434489ef277d59a32f7fb4cd4d"
+   "bytes": 758971,
+   "sha256": "ec9448688336f319039e366b5203a4e788336bc7578c39605ccdd2944588a5b1"
   },
   "cards/police.png": {
-   "bytes": 728948,
-   "sha256": "4c590b44d17ceacc301403e3eb9df3ca1e9a82ae33505514062069e3de241e01"
+   "bytes": 728965,
+   "sha256": "a288a8afe530c373482e028edd5587103d006d4d6f7d38720afa1037c439b7fd"
   },
   "cards/presets.png": {
-   "bytes": 680718,
-   "sha256": "35fd5937270a69350d496121feaf6b360b50fa2db822f1e99de9b0932fde717a"
+   "bytes": 680735,
+   "sha256": "612a95f50c6cceea87f2df19d64d3fd83b2d84b38aef29a3286e8718185c543e"
   },
   "cards/rain.png": {
-   "bytes": 728447,
-   "sha256": "8a8c93476110d3c6f1b82a96243325ad13b0ff07680f9e5f9aed4c1302547ee6"
+   "bytes": 728464,
+   "sha256": "d650d58488919b4b44da81344485bbd99502a05fc97e5e8bdac409ab2e2e6646"
   },
   "cards/ride.png": {
-   "bytes": 729300,
-   "sha256": "0682b4f11c8e593708d8b273c6164aeedfeec33289ce570cc054eb7f6cae3aef"
+   "bytes": 729317,
+   "sha256": "be64e4e520f065e77576536b2cc04b8527e0eb207f32f4ba56502c00785b2849"
   },
   "cards/roadblock.png": {
-   "bytes": 745944,
-   "sha256": "2ad17be9177c22d40bc2ea7144149f0f53ba683685604fb1117968af32a6c865"
+   "bytes": 745961,
+   "sha256": "03d4fe36a806b7b3d60f42aa0823641ebd4ef42f75e2ba438bf60239ab4b814a"
   },
   "cards/shortcuts.png": {
-   "bytes": 704126,
-   "sha256": "3c579716cb23a6cc92f56248360ae3dae63ccbd22b2707b743f4887499930c1c"
+   "bytes": 704143,
+   "sha256": "0ab138a2e88f605e0e7e3a87167979677b2a53ae37e72bfdffdc1d2668f03562"
   },
   "cards/snow.png": {
-   "bytes": 718801,
-   "sha256": "4ddd86634d7be73bc7d39334a48b144043d206738cc386bf3c1ca139c75d3308"
+   "bytes": 718818,
+   "sha256": "5f6fa4537a9935100b054273c1428dc348e97913d452b15240ea627d137f1875"
   },
   "cards/spikes.png": {
-   "bytes": 705071,
-   "sha256": "501186f8a07cec70366b433a2acf6e26e0ecc5c7864cd42b75121ce0b9328d56"
+   "bytes": 705088,
+   "sha256": "de938b44fc8a435b646abc76ad3dd6e6ea2387870993107a5ed8274de3d2c65e"
   },
   "cards/sprint.png": {
-   "bytes": 655525,
-   "sha256": "b2f8836a7c439efbfc6c0987b32e34a2fad8cc0d3609941a54dbe6affdc71ba2"
+   "bytes": 655542,
+   "sha256": "9582b000bcae6bce27ac11cca7a32b53ef310637f02f67f2881ea17aab3fb97e"
   },
   "cards/stepUp.png": {
-   "bytes": 731764,
-   "sha256": "dc9b5436cb3ce50a28da9cbf041ffb85d43c2b28e6633185a57556f8ed1bf71f"
+   "bytes": 731781,
+   "sha256": "7797c6bf8d8cdf42853a11e717aef18a6e397f16fe28a7ab7b4191835ab8e0eb"
   },
   "cards/traffic.png": {
-   "bytes": 709549,
-   "sha256": "2305d03199994e190b50f8e413239ef1678b87a5352bcfbacf3133fb1ef7c47b"
+   "bytes": 709566,
+   "sha256": "cc4143243f8dea88e4c36fe282e71161c0ad2f4d33ef25b5608ef22030404cee"
   },
   "hd/grille-gt.png": {
    "bytes": 184815,
@@ -455,7 +455,7 @@
   },
   "index.html": {
    "bytes": 5210,
-   "sha256": "54a765d67a74f1e885383747b7055f2c47a4ae943b9555b0de88cef10d5288f9"
+   "sha256": "b9cc5803b72c25a29a2f7895d503c2041e80d53e683cd0d012396c5c85d0f1b3"
   }
  }
 }
