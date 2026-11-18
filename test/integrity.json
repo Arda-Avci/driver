@@ -1,8 +1,8 @@
 {
  "note": "DRIVER (c) 2026 Arda AVCI. All rights reserved. The SHA-256 of every file of this published copy and the integrity chain: index.html loads the JS with SRI, the JS pins the manifests, the manifests list each picture's SHA-256. A copy that differs is not the original: https://arda-avci.github.io/driver/",
- "version": "5.0.13-test.1",
+ "version": "5.0.13-test.2",
  "channel": "test",
- "build": "e4704b9",
+ "build": "f8d4667",
  "chain": {
   "pins": {
    "bike/manifest.json": "sha256-e4QexDbhmDGYFvfXNbkXih9K4UKv9hL+gBM3Dna50Q4=",
@@ -21,29 +21,29 @@
    "bytes": 11569,
    "sha256": "e04bf692161165c0fdb90f5c703fa9973ff6790bd2cb07c257c229f442442d15"
   },
-  "assets/audio-BRFlP0X0.js": {
-   "bytes": 100730,
-   "sha256": "f6775fc663d0a4c9775dba90bf3490e8f4636ddfe5894acb4a01146b125b3c97"
+  "assets/audio-BmGgtbJ0.js": {
+   "bytes": 100731,
+   "sha256": "1ecb15f4519c6604e80d8256c818c4fb46a9b84d0401bed14c2ef7626f8e83ad"
   },
-  "assets/bikeRider-Bk-fP2Aa.js": {
+  "assets/bikeRider-C3S_CBV7.js": {
    "bytes": 213538,
-   "sha256": "bf5a21d8faf81b2fb92cc80776af3b321bc14f312ef8331c1c47b451892bf8ac"
+   "sha256": "cc6aab002c3679ce3191c196d4a82c3afe257020206d24107e11f6c2025164fc"
   },
-  "assets/engineLab-tBmc24WI.js": {
+  "assets/engineLab-RP3hMeu5.js": {
    "bytes": 9692,
-   "sha256": "fa718ebf2058c3f63ce20a66e76242ef607d133e45be97b9319f5c9e2c7654a0"
+   "sha256": "714854162e732544e13f3c6b0ef6f3c3a1769e5239f95a2884cf7af47ce6cb5e"
   },
-  "assets/index-C58Ydvv9.js": {
+  "assets/index-BOk3R8ur.js": {
    "bytes": 2959,
-   "sha256": "227e3bd1a2b31ffc3448073cb695b137dcb190661a76905f2bd10c43ae201b4c"
+   "sha256": "fec049fa9969e85fade75dfee576ba322257a803e8cc963c743fb9b9d160dc89"
   },
-  "assets/main-yLshqtZA.js": {
-   "bytes": 1171165,
-   "sha256": "bb94349e5813abec4ae6665e74fe320aa5c58908bc2805a563b749ac7414d176"
+  "assets/main-CXjm9oIy.js": {
+   "bytes": 1171323,
+   "sha256": "26718dd1773cfcd4908903fa78a558fd95499c2986260d516d8e3879cda4c0cf"
   },
-  "assets/startGate-C4o_8mbj.js": {
+  "assets/startGate-fA1PyVy9.js": {
    "bytes": 7960,
-   "sha256": "6942f4666a4844a90a9e23a9ab615b844aede12b8c92ff710ea82344ca572382"
+   "sha256": "e6bf530d617b3081fbc2305f3a16c54f80611716ca76ef7488adb53c6e300cbd"
   },
   "assets/three.module-Brb4CBx4.js": {
    "bytes": 592491,
@@ -455,7 +455,7 @@
   },
   "index.html": {
    "bytes": 5210,
-   "sha256": "c6b9ef896559f285878afa8f9496ba45a7e4ea1ee19db6e05d8067a784f0d1b4"
+   "sha256": "4b919a6807da4254e223d2c5c5a741fb8e5ee2dfb525b30792c77ded2f93a61c"
   }
  }
 }
